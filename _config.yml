@@ -11,9 +11,9 @@ title                    : "Dhruv Jain/ personal website"
 title_separator          : "-"
 name                     : &name "Dhruv Jain"
 description              : &description "personal description"
-url                      : https://dhruvj22.github.io/personal_website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://DhruvJ22.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dhruvj22/personal_website"
+repository               : "DhruvJ22/DhruvJ22.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
