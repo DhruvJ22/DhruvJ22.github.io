@@ -11,3 +11,6 @@ redirect_from:
 This is Dhruv Jain's home on the web!
 
 ![DJ Animation]({{ site.baseurl }}/files/qpo_projection.gif)
+
+![DJ Poincare]({{ site.baseurl }}/files/poincare_map_qpo_po_3_15.html)
+
