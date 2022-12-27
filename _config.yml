@@ -30,6 +30,7 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
+theme                    : jekyll-theme-hacker
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master" # "master", "gh-pages"
