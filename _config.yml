@@ -32,7 +32,7 @@ comments:
     colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Dhruv Jain"
-  avatar           : "profile.png"
-  bio              : "Graduate student at Purdue University"
+  avatar           : "dhruv_dp.jpg"
+  bio              : "Graduate student at Purdue| Astrodynamics Researcher"
   location         : "West Lafayette, Indiana, USA"
-  employer         :
+  employer         :  "Purdue University"
   pubmed           :
-  googlescholar    :
-  email            :
+  googlescholar    : 
+  email            :  "jain220@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "dhruv-jain-220"
   orcid            : 
   pinterest        :
   soundcloud       :
