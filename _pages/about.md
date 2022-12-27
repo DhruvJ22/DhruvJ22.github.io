@@ -10,4 +10,4 @@ redirect_from:
 
 This is Dhruv Jain's home on the web!
 
-![DJ Animation]({{ site.baseurl }}/files/qpo_projection.gif
+![DJ Animation]({{ site.baseurl }}/files/qpo_projection.gif)
