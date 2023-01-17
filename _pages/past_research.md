@@ -9,10 +9,9 @@ author_profile: false
 
 These are the research projects that I pursued as an independent study with a faculty member. 
 <br>
-
+<br>
 
 # _Space Object Taxonomy_
-*************************
 _May 2018 - Feburary 2020_, __Prof. Carolin Frueh, Purdue University__
 
 
@@ -25,6 +24,26 @@ _May 2018 - Feburary 2020_, __Prof. Carolin Frueh, Purdue University__
 **Concept learned**: Space Object Characterization, TLE, SGP4 
 
 A report detailing part of the work can be found [here]({{site.baseurl }}/files/paper1.pdf). 
+
+************************************************************************
+
+# _Aerodynamics Deorbit Experiement_
+************************************
+_January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
+
+
+**Description**: A CubeSat was being developed to characterize the use of a deployable drag sail as a passive deorbit mechanism through a multi-university partnership. More information about the project can be found [here](https://engineering.purdue.edu/CubeSat/missions/ade)
+
+**Contribution**: I was tasked with orbit modeling the CubeSat to estimate the deorbit time and ground station contact time using Freeflyer, STK, and MATLAB. I performed a Monte-Carlo analysis to account for a range of initial RAAN and launch Epochs. In addition, the coefficient of drag and solar radiation pressure area were modeled as time-variant for a range of values. Furthermore, I assisted in the development of a function in C to interface flight software with an IMU using Raspberry Pi and Linux. 
+
+**Learnings**: I learned about the intricacies of orbit modeling with multiple variables and the development of a complicated mission. I gained experience with identifying the level of fidelity needed to model the orbit and CubeSat, and how to defend design choices. In addition, I realized on a very high level how the flight software was designed for the mission and how to remotely collaborate with partner universities. 
+
+**Technologies used**: Freeflyer, STK, MATLAB, C, Linux, Raspberry Pi
+
+**Concepts learned**: Orbit Modeling, Monte-Carlo Analysis, Contact Analysis,Technical Communication
+
+A rerport summarizing the mission, and various design analysis and decisions can be found [here]({{site.baseurl }}/files/paper1.pdf). 
+
 
 <!-- 
 {% for post in site.portfolio %}
