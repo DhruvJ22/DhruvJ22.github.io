@@ -10,9 +10,11 @@ author_profile: false
 These are the research projects that I pursued as an independent study with a faculty member. 
 <br>
 
-# Space Object Taxonomy
-#### _May 2018 - Feburary 2020_, __Prof. Carolin Frueh, Purdue University__
-<br>
+
+# _Space Object Taxonomy_
+*************************
+_May 2018 - Feburary 2020_, __Prof. Carolin Frueh, Purdue University__
+
 
 **Description**: The multi-semester-long research was geared towards identifying patterns in the Geosynchronous Orbit (GEO) space objects. The patterns enabled in designing a program to autonomously classify new space objects into a taxonomy based on the 8 groups defined in the ESA [GEO Classification Report](http://www.astronomer.ru/data/0128/ESA_GEO_Classification_Report_issue_19.pdf).
 
