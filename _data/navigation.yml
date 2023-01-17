@@ -3,9 +3,15 @@ main:
   - title: "Current Research"
     url: /current_research/
 
+  - title: "Past Research"
+    url: /past_research/    
+
   - title: "Projects"
     url: /projects/    
 
-  - title: "Resume"
+  - title: "Experiences"
+    url: /experiences/    
+
+  - title: "Resume/CV"
     url: /resume/    
     
