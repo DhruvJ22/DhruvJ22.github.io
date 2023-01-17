@@ -25,8 +25,8 @@ _May 2018 - Feburary 2020_, __Prof. Carolin Frueh, Purdue University__
 
 A report detailing part of the work can be found [here]({{site.baseurl }}/files/paper1.pdf). 
 
-************************************************************************
-
+<hr style="border:2px solid grey">
+<hr style="border:1px solid grey">
 # _Aerodynamics Deorbit Experiement_
 ************************************
 _January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
