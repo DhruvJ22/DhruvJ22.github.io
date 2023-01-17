@@ -12,8 +12,8 @@ These are the research projects that I pursued as an independent study with a fa
 <br>
 
 # _Space Object Taxonomy_
+<hr style="border:2px solid grey">
 _May 2018 - Feburary 2020_, __Prof. Carolin Frueh, Purdue University__
-
 
 **Description**: The multi-semester-long research was geared towards identifying patterns in the Geosynchronous Orbit (GEO) space objects. The patterns enabled in designing a program to autonomously classify new space objects into a taxonomy based on the 8 groups defined in the ESA [GEO Classification Report](http://www.astronomer.ru/data/0128/ESA_GEO_Classification_Report_issue_19.pdf).
 
@@ -23,12 +23,12 @@ _May 2018 - Feburary 2020_, __Prof. Carolin Frueh, Purdue University__
 
 **Concept learned**: Space Object Characterization, TLE, SGP4 
 
-A report detailing part of the work can be found [here]({{site.baseurl }}/files/paper1.pdf). 
+A report detailing part of the work can be found [here]({{site.baseurl }}/files/AAE_497__Space_Object_Taxonomy_Report.pdf). 
+<br>
+<br>
 
-<hr style="border:2px solid grey">
-<hr style="border:1px solid grey">
 # _Aerodynamics Deorbit Experiement_
-************************************
+<hr style="border:2px solid grey">
 _January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
 
 
@@ -43,6 +43,22 @@ _January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
 **Concepts learned**: Orbit Modeling, Monte-Carlo Analysis, Contact Analysis,Technical Communication
 
 A rerport summarizing the mission, and various design analysis and decisions can be found [here]({{site.baseurl }}/files/paper1.pdf). 
+<br>
+<br>
+
+# _Spacecraft Docking and Simulation_
+<hr style="border:2px solid grey">
+_January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
+
+**Description**: The semester long research was focused on reviewing the literature to reliaze spacecraft docking and rendezvous techniques, and developing a program to compute fuel optimal trajectory for a Chaser spacecraft to intercept with a Target spacecraft. The problem was posed as a simplified docking problem, which focused on calculating a trajectory that can enable the intersection of the two spacecrafts in position and velocity states, but not in the attitude. 
+
+**Learnings**: I learned how to efficiently read research papers  and the importance of managing references. I gained an understanding of automatic differentiation and optimization techniques. I even realized how to breakdown a hard problem to iteratively build a solution. 
+
+**Technologies used**: Python (numpy, matplotlib, casADi), Jupyter Lab, Latex
+
+**Concepts learned**: Spacecraft Interception, Relative Motion, Trajectory Design, Optimal Control
+
+Checkout the [literature review]({{site.baseurl }}/files/Spacecraft_Control_and_Sim_Literature_Review.pdf) and the [spacecraft interception code] !
 
 
 <!-- 
