@@ -19,18 +19,15 @@ main:
     url: /resume/    
     
 past_res_sidebar: 
-  - title: "Past Research"
-    children:
-      - title: "-Space Object Taxonomy"
-      - title: "Aerodynamics Deorbit Experiment"
-      - title: "-Spacecraft Docking and Simulation"
+  - title: "- Space Object Taxonomy"
+    url: /#space-object-taxonomy
+  - title: "- Aerodynamics Deorbit Experiment"
+    url: /#aerodynamics-deorbit-experiment
+  - title: "- Spacecraft Docking and Simulation"
 
 projects_sidebar:
-  - title: "Projects"
-    children: 
-      - title: "Poliastro"
-      - title: 'Numerical Methods'
-      - title: 'Senior Spacecraft Design Project'
-      - title: "Analysis of Motor Misalignment, Jet-Damping, and Mass variation on a Spinning-Thrusting Cubesat"
-      - title: "Purdue Vibrational Instrumental Payload for Educational Research"
-      
+  - title: "- Poliastro"
+  - title: '- Numerical Methods'
+  - title: '- Senior Spacecraft Design Project'
+  - title: "- Analysis of Motor Misalignment, Jet-Damping, and Mass variation on a Spinning-Thrusting Cubesat"
+  - title: "- Purdue Vibrational Instrumental Payload for Educational Research"

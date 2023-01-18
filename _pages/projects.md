@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: false
 sidebar:
+  title: "Projects"
   nav: projects_sidebar
 ---
 

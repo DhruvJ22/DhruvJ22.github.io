@@ -4,6 +4,7 @@ title: "Past Research"
 permalink: /past_research/
 author_profile: false
 sidebar:
+  title: "Past Research"
   nav: past_res_sidebar
 ---
 
