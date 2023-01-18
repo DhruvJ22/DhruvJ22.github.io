@@ -3,6 +3,9 @@ layout: archive
 title: "Experiences"
 permalink: /experiences/
 author_profile: false
+sidebar: 
+  title: "Experiences"
+  nav: experiences_sidebar
 ---
 
 {% include base_path %}
