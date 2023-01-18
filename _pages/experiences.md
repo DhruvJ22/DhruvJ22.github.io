@@ -89,7 +89,7 @@ The course helped students to professionally develop and prepare for research op
 <hr style="border:1px solid grey">
 _January 2023 - Present_
 
-The course was centered around teaching students the principles of engineering through experiential learning by leveraging MATLAB, Python, and Raspberry Pi. I assisted the students with in-class questions and the operation logistics of various projects and activities of the course. 
+The course was centered around teaching students the principles of engineering through experiential learning by leveraging MATLAB, Python, and Raspberry Pi. I assisted the students with in-class questions and the operational logistics of various projects and activities of the course. 
 <br>
 <br>
 
