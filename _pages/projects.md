@@ -70,7 +70,7 @@ The final report for the project can be found [here]({{site.baseurl }}/files/GAE
 
 **Concepts learned**: Dynamics Modelling, Analysis of Numerical Simulation Results, Attitude Dynamics, Comparison of Numerical Simulation Results and Analytical Solutions
 
-The code and more detailed discussion can be found on [DhruvJ22/ADCS_course_project](https://github.com/DhruvJ22/ADCS_course_project).
+The code and more detailed [discussion]({{site.baseurl }}/files/CubeSat_Attitude_Simulator_Report.pdf) can be found on [DhruvJ22/ADCS_course_project](https://github.com/DhruvJ22/ADCS_course_project).
 <br>
 <br>
 
