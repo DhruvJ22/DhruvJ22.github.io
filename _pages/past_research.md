@@ -3,6 +3,11 @@ layout: archive
 title: "Past Research"
 permalink: /past_research/
 author_profile: false
+sidebar:
+  - title: "Past Research"
+    children:
+      - title: "Space Object Taxonomy"
+      - title: "Aerodynamics Deorbit Experiment"
 ---
 
 {% include base_path %}
@@ -42,7 +47,7 @@ _January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
 
 **Concepts learned**: Orbit Modeling, Monte-Carlo Analysis, Contact Analysis,Technical Communication
 
-A rerport summarizing the mission, and various design analysis and decisions can be found [here]({{site.baseurl }}/files/paper1.pdf). 
+A rerport summarizing the mission, and various design analysis and decisions can be found [here]({{site.baseurl }}/files/ADE_Mission_Plan_V4.pdf). 
 <br>
 <br>
 
