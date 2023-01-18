@@ -12,6 +12,9 @@ main:
   - title: "Experiences"
     url: /experiences/    
 
+  - title: "Bio"
+    url: /bio/    
+
   - title: "Resume/CV"
     url: /resume/    
     
