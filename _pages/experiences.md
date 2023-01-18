@@ -6,8 +6,11 @@ author_profile: false
 ---
 
 {% include base_path %}
+<br>
+<br>
 
-
+The following industry experiences and assistantships, which I held during my time in graduate school at Purdue University, have been instrumental in assisting me to develop professionally.
+<br>
 
 # _Industry_
 <hr style="border:2px solid grey">
