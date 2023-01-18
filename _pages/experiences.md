@@ -6,15 +6,13 @@ author_profile: false
 ---
 
 {% include base_path %}
-<br>
-<br>
 
 The following industry experiences and assistantships, which I held during my time in graduate school at Purdue University, have been instrumental in assisting me to develop professionally.
+<br>
 <br>
 
 # _Industry_
 <hr style="border:2px solid grey">
-<br>
 
 ## _Dhruva Space, India (Summer 2020)_
 <hr style="border:1px solid grey">
@@ -24,6 +22,7 @@ The following industry experiences and assistantships, which I held during my ti
 **Learnings**: I gained experience with designing and coding a simulator from the ground up using Object Oriented Programming and stakeholder (hardware team) requirements with minimal supervision. In addition, I honed my dynamics modeling skills by simulating the Earth’s magnetic field and Hysteresis rod torque. A unique thing I learned was how to compartmentalize sensitive information to be able to share only selective information with another intern, who worked on developing sensor models to be added to the simulator.
 
 **Technologies used**: Python, MATLAB, Google Cloud Platform, Asana
+
 **Concepts learned**: Object Oriented Programming, System Design,  Dynamics Modeling, Software-in-the-loop
 <br>
 <br>
@@ -38,8 +37,6 @@ The following industry experiences and assistantships, which I held during my ti
 **Technologies used**: Python, MATLAB, GMAT, SaVi
 
 **Concepts learned**: Satellite Constellation Design, Dynamics Modeling, Data Visualization
-
-The code and more detailed discussion can be found on [DhruvJ22/Numerical-Methods](https://github.com/DhruvJ22/Numerical-Methods).
 <br>
 <br>
 
@@ -59,11 +56,12 @@ The code and more detailed discussion can be found on [DhruvJ22/Numerical-Method
 
 # _Assistantships & Fellowship_
 <hr style="border:2px solid grey">
-<br>
 
 ## _Engineering Undergraduate Research Office, Graduate Assistant (EURO GA)_
 <hr style="border:1px solid grey">
 _January 2021 - May 2022_
+
+
 
 <!-- 
 {% for post in site.portfolio %}
