@@ -34,17 +34,17 @@ experiences_sidebar:
   - title: "Industry"
     children:
     - title: "Dhruva Space 2020"
-      url: /experiences/
+      url: //experiences/
     - title: "Dhruva Space 2019"
-      url: /experiences/
+      url: //experiences/
     - title: "IIT Delhi 2018"
-      url: /experiences/
+      url: 
   - title: "Assistantships and Fellowship"
     children: 
     - title: "EURO GA"
-      url: /experiences/
+      url: //experiences/
     - title: "MEP Summer Fellow"
-      url: /experiences/
+      url: //experiences/
     - title: "SURF GA"
       url: /experiences/
     - title: "ENGR 162 TA"
