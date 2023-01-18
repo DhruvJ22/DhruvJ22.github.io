@@ -91,9 +91,3 @@ The code and more detailed [discussion]({{site.baseurl }}/files/CubeSat_Attitude
 **Concepts learned**: I2P and SPI communication protocols, IMU, Data logger
 
 Check out the [code](https://github.com/DhruvJ22/ADCS_course_project/blob/main/misc/PVIPER_CODE5_FALL2018.ino) and the [project report]({{site.baseurl }}/files/PVIPER_Report_Fall2018.pdf)!
-
-<!-- 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %} 
--->

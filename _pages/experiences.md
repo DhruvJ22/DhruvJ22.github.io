@@ -95,8 +95,3 @@ The weekly seminar allowed the students to learn about intellectual property rig
 _August 2021 - December 2021_
 
 The course helped students to professionally develop and prepare for research opportunities. It was a unique course that enables students to be successful at obtaining opportunities in industry and academia. I assisted the instructors with grading, providing feedback and mentoring students. The best part about the experience was that I was able to lead a few lectures and share my research journey. 
-<!-- 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %} 
--->
