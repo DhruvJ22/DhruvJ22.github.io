@@ -79,7 +79,7 @@ The code and more detailed discussion can be found on [DhruvJ22/ADCS_course_proj
 
 **Description**: A team of 5 collaborated for a semester to make progress with the development of a device that is capable of measuring vibrations on a payload of a suborbital rocket flight for educational purposes. 
 
-**Contribution: I was the lead programmer and I worked with the team to write a program to obtain and process data from an IMU. I had the most experience working with IMUs in the team, so I was chosen to lead the programming effort
+**Contribution**: I was the lead programmer and I worked with the team to write a program to obtain and process data from an IMU. I had the most experience working with IMUs in the team, so I was chosen to lead the programming effort
 
 **Learning**: I learned the basics of I2P and SPI communication protocol to write a code to read and write data to an IMU and a data logger. In addition, I realized the design decisions made by previous members of the team. I also gained the experience of how to actively participate in a meeting, and lead and collaborate with peers who were much more experienced aerospace students. 
 
@@ -87,7 +87,7 @@ The code and more detailed discussion can be found on [DhruvJ22/ADCS_course_proj
 
 **Concepts learned**: I2P and SPI communication protocols, IMU, Data logger
 
-Check out the code and the [project report]({{site.baseurl }}/files/Purdue Vibrational Instrument Payload for Educational Research Report_Fall2018.pdf)!
+Check out the code and the [project report]({{site.baseurl }}/files/PVIPER_Report_Fall2018.pdf)!
 
 <!-- 
 {% for post in site.portfolio %}
