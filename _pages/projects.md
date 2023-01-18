@@ -43,6 +43,22 @@ The code and more detailed discussion can be found on [DhruvJ22/Numerical-Method
 <br>
 <br>
 
+# _Senior Spacecraft Design Project, Purdue University_
+<hr style="border:2px solid grey">
+
+**Description**: A group of 8 students collaborated to design a space mission to leverage the [Signals of Opportunity](https://ieeexplore.ieee.org/document/8520391) technology to collect the sub-soil moisture data and develop on the success of the [NASA SMAP](https://smap.jpl.nasa.gov/) mission. The project was formulated as a call to a NASA Announcement of Opportunity. The design was focused on the Pre-Phase A development of the mission. The team planned the Science Objectives and Requirements, Science Implementation, Mission Implementation, Cost, and Schedule
+
+**Contribution**: My primary role was to assist the team as a Systems Engineer, so I formulated the Top-Level Requirements, analyzed the Risks, planned Contingencies, mapped the Data and Power flow onboard. In addition, I ideated on Flight Software/Onboard Processing, Development Approach, and Assembly, Integration, Test and Verification. Also, I significantly contributed to planning and budgeting for ADCS, Satellite Constellation Design, and End of Life Disposal. As a Systems Engineer, I also assisted other subsystem teams to be successful by helping them to ideate and keep up with the evolving design. 
+
+**Learnings**: I learned the fundamental principles of Mission Design and the importance of realizing how various satellite subsystems interact with each other. This realization assisted in better supporting the subsystems teams and when to relay the subsystem updates to other teams. Besides the technical knowledge that I gained by working on my specific contributions, I became adept at leading team meetings and collaborating virtually with members of the team spread across 4 different time zones.
+
+**Technologies used**: MATLAB, C, GMAT, Linux, Canva, Slack  
+**Concepts learned**: Space Systems Engineering, Mission Formulation, Mission Operations, Satellite Constellation Design, Attitude Determination and Control, Risks and Contengencies
+
+The final report for the project can be found [here]({{site.baseurl }}/files/GAEA_Final_Proposal.pdf).
+<br>
+<br>
+
 # _Analysis of Motor Misalignment, Jet-Damping, and Mass variation on a Spinning-Thrusting Cubesat_
 <hr style="border:2px solid grey">
 
@@ -55,6 +71,23 @@ The code and more detailed discussion can be found on [DhruvJ22/Numerical-Method
 **Concepts learned**: Dynamics Modelling, Analysis of Numerical Simulation Results, Attitude Dynamics, Comparison of Numerical Simulation Results and Analytical Solutions
 
 The code and more detailed discussion can be found on [DhruvJ22/ADCS_course_project](https://github.com/DhruvJ22/ADCS_course_project).
+<br>
+<br>
+
+# _Purdue Vibrational Instrumental Payload for Educational Research_
+<hr style="border:2px solid grey">
+
+**Description**: A team of 5 collaborated for a semester to make progress with the development of a device that is capable of measuring vibrations on a payload of a suborbital rocket flight for educational purposes. 
+
+**Contribution: I was the lead programmer and I worked with the team to write a program to obtain and process data from an IMU. I had the most experience working with IMUs in the team, so I was chosen to lead the programming effort
+
+**Learning**: I learned the basics of I2P and SPI communication protocol to write a code to read and write data to an IMU and a data logger. In addition, I realized the design decisions made by previous members of the team. I also gained the experience of how to actively participate in a meeting, and lead and collaborate with peers who were much more experienced aerospace students. 
+
+**Technologies used**: Arduino IDE to interface with the embedded systems
+
+**Concepts learned**: I2P and SPI communication protocols, IMU, Data logger
+
+Check out the code and the [project report]({{site.baseurl }}/files/Purdue Vibrational Instrument Payload for Educational Research Report_Fall2018.pdf)!
 
 <!-- 
 {% for post in site.portfolio %}
