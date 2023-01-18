@@ -27,7 +27,7 @@ I hope to leverage all my learnings to contribute to the technological developme
 
 I am currently seeking an industry opportunity related to aerospace engineering that enables space exploration and sustainably ameliorates our lives. 
 
-Read my [bio](bio.md) to learn about my journey!
+Read my [bio]({{site.baseurl }}/bio) to learn about my journey!
 <br>
 <br>
 
