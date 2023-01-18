@@ -58,7 +58,7 @@ _January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
 
 **Concepts learned**: Spacecraft Interception, Relative Motion, Trajectory Design, Optimal Control
 
-Checkout the [literature review]({{site.baseurl }}/files/Spacecraft_Control_and_Sim_Literature_Review.pdf) and the [spacecraft interception code] !
+Checkout the [literature review]({{site.baseurl }}/files/Spacecraft_Control_and_Sim_Literature_Review.pdf) and the [spacecraft interception code]({{site.baseurl }}/files/Docking.ipynb). 
 
 
 <!-- 
