@@ -3,6 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: false
+sidebar:
+  nav: projects_sidebar
 ---
 
 {% include base_path %}
