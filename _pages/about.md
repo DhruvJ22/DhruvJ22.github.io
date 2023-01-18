@@ -12,7 +12,7 @@ I am Dhruv Jain, an aerospace engineering graduate student at Purdue University,
 
 I enjoy working on projects that are at the intersection of astrodynamics, numerical methods, and software engineering. I have had the opportunity to work on various projects to obtain experience in the three areas of my interest and become a better engineer. I have gained a strong foundational understanding of astrodynamics, space systems, numerical methods, and software development through experiences in the following topics: 
 
-- Orbit and Trajectory design in Multi-body regimes (CR, res github, [poliastro]({{site.baseurl }}/projets/#poliastro))
+- Orbit and Trajectory design in Multi-body regimes (CR, res github, [poliastro](projects.md#poliastro))
 - Spacecraft Attitude Dynamics and Controls (DhruvaSpace, 507) 
 - Satellite Constellation Design and Analysis (DhruvaSpace, 450, future 490)
 - Space Object Characterization (Frueh)
