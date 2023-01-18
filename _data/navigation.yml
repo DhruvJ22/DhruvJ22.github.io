@@ -18,3 +18,9 @@ main:
   - title: "Resume/CV"
     url: /resume/    
     
+past_res_sidebar: 
+  - title: "Past Research"
+    children:
+      - title: Space Object Taxonomy
+      - title: Aerodynamics Deorbit Experiment
+      - title: Spacecraft Docking and Simulation

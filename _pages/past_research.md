@@ -4,10 +4,7 @@ title: "Past Research"
 permalink: /past_research/
 author_profile: false
 sidebar:
-  - title: "Past Research"
-    children:
-      - title: "Space Object Taxonomy"
-      - title: "Aerodynamics Deorbit Experiment"
+  nav: past_res_sidebar
 ---
 
 {% include base_path %}
