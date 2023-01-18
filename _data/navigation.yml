@@ -19,15 +19,32 @@ main:
     url: /resume/    
     
 past_res_sidebar: 
-  - title: "- Space Object Taxonomy"
-    url: /#space-object-taxonomy
-  - title: "- Aerodynamics Deorbit Experiment"
-    url: /#aerodynamics-deorbit-experiment
-  - title: "- Spacecraft Docking and Simulation"
+  - title: "Space Object Taxonomy"
+    url: /past_research
+  - title: "Aerodynamics Deorbit Experiment"
+    url: /past_research
+  - title: "Spacecraft Docking and Simulation"
+    url: /past_research
 
 projects_sidebar:
-  - title: "- Poliastro"
-  - title: '- Numerical Methods'
-  - title: '- Senior Spacecraft Design Project'
-  - title: "- Analysis of Motor Misalignment, Jet-Damping, and Mass variation on a Spinning-Thrusting Cubesat"
-  - title: "- Purdue Vibrational Instrumental Payload for Educational Research"
+  - title: "Poliastro"
+  - title: 'Numerical Methods'
+  - title: 'Senior Spacecraft Design Project'
+  - title: "Analysis of Motor Misalignment, Jet-Damping, and Mass variation on a Spinning-Thrusting Cubesat"
+  - title: "Purdue Vibrational Instrumental Payload for Educational Research"
+
+experiences_sidebar:
+  - title: "Industry"
+    children:
+    - title: "Dhruva Space 2020"
+    - title: "Dhruva Space 2019"
+    - title: "IIT Delhi 2018"
+  - title: "Assistantships and Fellowship"
+    children: 
+    - title: "EURO GA"
+    - title: "MEP Summer Fellow"
+    - title: "SURF GA"
+    - title: "ENGR 162 TA"
+    - title: "ENTR 500 TA"
+    - title: "ENGR 103 TA"
+

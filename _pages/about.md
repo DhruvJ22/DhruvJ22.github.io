@@ -37,4 +37,3 @@ Read my [bio]({{site.baseurl }}/bio) to learn about my journey!
 I am nearing the end of my Master’s journey, so I am excitedly working on finishing my thesis, which will dwell on the computation and use of quasi-periodic orbits for transfer trajectory design. In addition, I am a teaching assistant for [ENGR 162](experiences.md#engr-162-honors-introduction-to-innovation-and-the-physical-science-of-engineering-design-ii-teaching-assistant) course at Purdue.  
 
 In order to hone my skills and further my passion for astrodynamics, numerical methods, and software engineering, I am working on contributing a part of my [research code](https://github.com/DhruvJ22/Astrodynamics_Research) to [Poliastro](projects.md#poliastro). In addition, I am collaborating with other astrodynamicists to develop [FOREST](https://github.com/mbd-astro/forest).
-
