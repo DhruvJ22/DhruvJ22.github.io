@@ -52,7 +52,7 @@ experiences_sidebar:
     url: //experiences/#assistantships--fellowship-at-purdue-univeristy
     children: 
     - title: "EURO GA"
-      link: //experiences/#engineering-undergraduate-research-office-graduate-assistant-euro-ga
+      url: //experiences/#engineering-undergraduate-research-office-graduate-assistant-euro-ga
     - title: "MEP Summer Fellow"
       url: //experiences/#minority-engineering-program-summer-fellow
     - title: "SURF GA"

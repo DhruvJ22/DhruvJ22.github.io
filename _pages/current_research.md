@@ -27,7 +27,10 @@ The Lagrange points are trivial to compute and there exist five of them in any s
 
 NASA [CAPSTONE](https://www.nasa.gov/directorates/spacetech/small_spacecraft/capstone/) and [ARTEMIS 1](https://www.nasa.gov/image-feature/artemis-i-map) mission leveraged a L2 Halo and a DRO orbit in the Earth-Moon system respectively. The _L2 Halo orbit_(left) and _DRO family_(right), whose members were utilized for the two missions, are plotted below using my publicly available [code]((https://github.com/DhruvJ22/Astrodynamics_Research)) and the family members are colored by Jacobi Constant. 
 
-L2 Halo and DRO fam
+<figure class="half">
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research/EM_L2_HaloS_family.html" height="450" width="50%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research//misc/EM_DRO_family.html" height="450" width="50%"></iframe>
+</figure>
 “These are interactive plots”
 
 The periodic orbits have various applications, as exemplified by the above two NASA missions, and are essential in identifying quasi-periodic orbits. 
@@ -77,7 +80,3 @@ Concepts learned: Dynamics Modelling, Numerical Methods, Optimization,  Data Ana
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research/EM_L2_HaloS_family.html" height="525" width="50%"></iframe>
 
-<figure class="half">
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research/EM_L2_HaloS_family.html" height="450" width="50%"></iframe>
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research//misc/poincare_map_qpo_po_3_15.html" height="450" width="50%"></iframe>
-</figure>
