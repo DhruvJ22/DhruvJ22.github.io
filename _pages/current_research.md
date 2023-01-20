@@ -71,6 +71,6 @@ The existence and method to compute QPOs have been known since the 20th century 
 
 There are many planned missions that will leverage periodic orbits but it is a constant challenge to compute fuel-efficient transfers between them. Thus, I am working on finding these transfers more efficiently by expanding my work to chain periodic orbit - QPO and QPO - periodic orbit transfer to get a periodic orbit - periodic orbit transfer. You can learn more about them in my upcoming thesis. 
 
-Technologies used: Python(numpy, scipy, pandas, scikit-learn, plotly, matplotlib), MATLAB, C, Git, Command Line Interface, Latex
+**Technologies used**: Python(numpy, scipy, pandas, scikit-learn, plotly, matplotlib), MATLAB, C, Git, Command Line Interface, Latex
 
-Concepts learned: Dynamics Modelling, Numerical Methods, Optimization,  Data Analysis, Data Visualization, Technical Communication, Automation, Software Development, Independent and Creative Work
+**Concepts learned**: Dynamics Modelling, Numerical Methods, Optimization, Data Analysis, Data Visualization, Technical Communication, Automation, Software Development, Independent and Creative Work

@@ -11,4 +11,4 @@ redirect_from:
 
 If the embedded PDF below does not load, you can download it [here]({{ site.baseurl }}/files/paper1). 
 
-<embed src="{{ site.baseurl }}/files/paper1.pdf" width="500" height="650" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Dhruv_Jain_CV_20Jan23.pdf" width="500" height="650" type='application/pdf'>
