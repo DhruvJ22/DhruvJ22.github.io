@@ -49,14 +49,14 @@ The computation of QPO involves using multiple shooting with multiple nodes to t
 
 ## 1. Host Orbit
 
-[James Webb Space Telescope (JWST)](https://webb.nasa.gov/) is the most recent example of a mission that uses a QPO as a host orbit. The telescope is hosted in a [Sun-Earth L2 Quasi-Halo orbit](https://jwst-docs.stsci.edu/jwst-observatory-characteristics/jwst-orbit). I was able to recreate the orbit(green) and how the trajectory (grey) of the telescope(red point on orbit) evolves using the CR3BP model as shown below
+[James Webb Space Telescope (JWST)](https://webb.nasa.gov/) is the most recent example of a mission that uses a QPO as a host orbit. The telescope is hosted in a [Sun-Earth L2 Quasi-Halo orbit](https://jwst-docs.stsci.edu/jwst-observatory-characteristics/jwst-orbit). I was able to recreate the orbit(green) and how the trajectory(grey) of the telescope(red point on orbit) evolves using the CR3BP model as shown below
 
 ![image-center]({{ site.baseurl }}/files/jwst_10revs.gif){: .align-center}
 <br>
 
 ## 2. Maneuver Free Transfers
 
-Maneuver free transfers, also known as heteroclinic transfers, between QPOs can be computed by leveraging their manifolds. The same is not guaranteed for periodic orbits because of their lower dimensionality than QPOs. The construction of these types of transfers relies on identifying a good initial guess, which was done by using a Poincare map and k-d tree, and differential correction. The following interactive plot shows 2 maneuver-free trajectories (yellow and green) that can be used to travel from a L2-Quasi Halo orbit (red) to get to a L1 Quasi-Halo Orbit (blue), JC = 3.13.
+Maneuver free transfers, also known as heteroclinic transfers, between QPOs can be computed by leveraging their manifolds. The same is not guaranteed for periodic orbits because of their lower dimensionality than QPOs. The construction of these types of transfers relies on identifying a good initial guess, which was done by using a Poincare map and k-d tree, and differential correction. The following interactive plot shows 2 maneuver-free trajectories(yellow and green) that can be used to travel from a L2-Quasi Halo orbit(red) to get to a L1 Quasi-Halo Orbit(blue), JC = 3.13.
 
 <figure>
     <figcaption>This is an interactive plot</figcaption>

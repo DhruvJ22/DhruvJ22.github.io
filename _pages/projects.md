@@ -10,7 +10,7 @@ sidebar:
 
 {% include base_path %}
 
-These projects were done as part of courses at Purdue University, or through my passion to learn more about topics related to astrodynamics, numerical methods, and software engineering.
+These projects were done as part of coursework at Purdue University, or through my passion to learn more about topics related to astrodynamics, numerical methods, and software engineering.
 <br>
 <br>
 
