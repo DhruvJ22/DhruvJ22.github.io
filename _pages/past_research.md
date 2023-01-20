@@ -18,7 +18,7 @@ These are the research projects that I pursued as an independent study with a fa
 <hr style="border:2px solid grey">
 _May 2018 - Feburary 2020_, __Prof. Carolin Frueh, Purdue University__
 
-**Description**: The multi-semester-long research was geared towards identifying patterns in the Geosynchronous Orbit (GEO) space objects. The patterns enabled in designing a program to autonomously classify new space objects into a taxonomy based on the 8 groups defined in the ESA [GEO Classification Report](http://www.astronomer.ru/data/0128/ESA_GEO_Classification_Report_issue_19.pdf).
+**Description**: The multi-semester-long research was geared towards identifying patterns in the orbit of Geosynchronous Orbit (GEO) space objects. The patterns enabled in designing a program to autonomously classify new space objects into a taxonomy based on the 8 groups defined in the ESA [GEO Classification Report](http://www.astronomer.ru/data/0128/ESA_GEO_Classification_Report_issue_19.pdf).
 
 **Learnings**: I learned the fundamentals of Astrodynamics to understand the orbits that the space objects were in. I used TLE data and the SGP4 model to simulate the orbits, and created functions to compute orbital elements and longitude. I developed an intuition of the orbital characteristics of the GEO objects and insights into the challenges of the space debris problem.
 
@@ -41,7 +41,7 @@ _January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
 
 **Learnings**: I learned about the intricacies of orbit modeling with multiple variables and the development of a complicated mission. I gained experience with identifying the level of fidelity needed to model the orbit and CubeSat, and how to defend design choices. In addition, I realized on a very high level how the flight software was designed for the mission and how to remotely collaborate with partner universities. 
 
-**Technologies used**: Freeflyer, STK, MATLAB, C, Linux, Raspberry Pi
+**Technologies used**: Freeflyer, STK, MATLAB, C, Linux, Raspberry Pi, Command Line Interface
 
 **Concepts learned**: Orbit Modeling, Monte-Carlo Analysis, Contact Analysis,Technical Communication
 
