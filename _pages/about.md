@@ -14,12 +14,12 @@ I am Dhruv Jain, an aerospace engineering graduate student at Purdue University,
 I enjoy working on projects that are at the intersection of astrodynamics, numerical methods, and software engineering. I have had the opportunity to work on various projects to obtain experience in the three areas of my interest and become a better engineer. I have gained a strong foundational understanding of astrodynamics, space systems, numerical methods, and software development through experiences in the following topics: 
 
 - Orbit and Trajectory design in Multi-body regimes ([1]({{site.baseurl }}/current_research), [2](https://github.com/DhruvJ22/Astrodynamics_Research), [3](projects.md#poliastro))
-- Spacecraft Attitude Dynamics and Controls ([1](experiences.md##dhruva-space-,-india-(summer-2020)), [2](projects.md#analysis-of-motor-misalignment-jet-damping-and-mass-variation-on-a-spinning-thrusting-cubesat)) 
-- Satellite Constellation Design and Analysis ([1](experiences.md##dhruva-space-india-summer-2019), [2](projects.md#senior-spacecraft-design-project-purdue-university)])
+- Spacecraft Attitude Dynamics and Controls ([1](experiences.md#dhruva-space-,-india-(summer-2020)), [2](projects.md#analysis-of-motor-misalignment-jet-damping-and-mass-variation-on-a-spinning-thrusting-cubesat)) 
+- Satellite Constellation Design and Analysis ([1](experiences.md#dhruva-space-india-summer-2019), [2](projects.md#senior-spacecraft-design-project-purdue-university)])
 - Space Object Characterization ([1](past_research.md#space-object-taxonomy))
 - Orbit Modeling and Analysis ([1](past_research.md#aerodynamics-deorbit-experiement))
 - Spacecraft Docking ([1](past_research.md#spacecraft-docking-and-simulation))
-- Space Systems and Sensors ([1](projects.md#senior-spacecraft-design-project-purdue-university), [2](projects.md#purdue-vibrational-instrumental-payload-for-educational-research), [3](past_research.md#aerodynamics-deorbit-experiement), [4](experiences.md##dhruva-space-india-summer-2020))
+- Space Systems and Sensors ([1](projects.md#senior-spacecraft-design-project-purdue-university), [2](projects.md#purdue-vibrational-instrumental-payload-for-educational-research), [3](past_research.md#aerodynamics-deorbit-experiement), [4](experiences.md#indian-institude-of-technology-delhi-india-summer-2018)
 
 Furthermore, I have worked in various [assistantships and fellowship](experiences.md#assistantships--fellowship-at-purdue-univeristy) positions that have enabled me to become a better mentor, communicator, instructor, team leader, facilitator, and team player. 
 

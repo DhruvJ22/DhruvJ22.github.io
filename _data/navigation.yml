@@ -32,28 +32,29 @@ projects_sidebar:
 
 experiences_sidebar:
   - title: "Industry"
+    url: //experiences/
     children:
     - title: "Dhruva Space 2020"
-      url: //experiences/
+      url: //experiences/#dhruva-space-,-india-(summer-2020)
     - title: "Dhruva Space 2019"
-      url: //experiences/
+      url: //experiences/#dhruva-space-,-india-(summer-2019)
     - title: "IIT Delhi 2018"
-      url: 
+      url: //experiences/#indian-institude-of-technology-delhi-india-summer-2018
   - title: "Assistantships and Fellowship"
-    link: ./
+    url: //experiences/#assistantships--fellowship-at-purdue-univeristy
     children: 
     - title: "EURO GA"
-      link: ./#engineering-undergraduate-research-office-graduate-assistant-euro-ga
+      link: //experiences/#engineering-undergraduate-research-office-graduate-assistant-euro-ga
     - title: "MEP Summer Fellow"
-      url: experiences.md#engineering-undergraduate-research-office-graduate-assistant-euro-ga 
+      url: //experiences/#minority-engineering-program-summer-fellow
     - title: "SURF GA"
-      url: experiences.html#engineering-undergraduate-research-office-graduate-assistant-euro-ga
+      url: //experiences/#summer-undergraduate-research-fellowship-graduate-assistant-surf-ga
     - title: "ENGR 162 TA"
-      url: //experiences/
+      url: //experiences/#engr-162-honors-introduction-to-innovation-and-the-physical-science-of-engineering-design-ii-teaching-assistant
     - title: "ENTR 500 TA"
-      url: //experiences/
+      url: //experiences/#entr-500-technology-commercialization-teaching-assistant
     - title: "ENGR 103 TA"
-      url: //experiences/
+      url: //experiences/#engr-103-introduction-to-engineering-in-practice-teaching-assistant
 
 current_res_sidebar:
   - title: "Introduction"
