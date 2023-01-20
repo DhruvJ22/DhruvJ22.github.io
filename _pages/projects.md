@@ -56,6 +56,7 @@ The code and more detailed discussion can be found on [DhruvJ22/Numerical-Method
 **Learnings**: I learned the fundamental principles of Mission Design and the importance of realizing how various satellite subsystems interact with each other. This realization assisted in better supporting the subsystems teams and when to relay the subsystem updates to other teams. Besides the technical knowledge that I gained by working on my specific contributions, I became adept at leading team meetings and collaborating virtually with members of the team spread across 4 different time zones.
 
 **Technologies used**: MATLAB, C, GMAT, Linux, Canva, Slack  
+
 **Concepts learned**: Space Systems Engineering, Mission Formulation, Mission Operations, Satellite Constellation Design, Attitude Determination and Control, Risks and Contengencies
 
 The final report for the project can be found [here]({{site.baseurl }}/files/GAEA_Final_Proposal.pdf).
