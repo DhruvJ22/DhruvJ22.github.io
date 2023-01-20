@@ -44,7 +44,7 @@ Quasi-periodic orbits are a higher dimensional solutions than periodic orbits of
 
 ![DJ Animation]({{ site.baseurl }}/files/em_l1_quasilyap_JC_3_01_projections.mp4)
 
-The computation of QPO involves using multiple shooting with multiple nodes to target the quasi-periodic behavior and then utilizing a numerical continuation scheme to compute three different families of QPOs. Despite their complexities, they fundamentally expand the solution space, which makes them an attractive choice to host spacecrafts, formation flying, and transfer design. I have worked on recreating some of the applications and I have been able to come up with a novel application that uses their manifolds, which will be described in my upcoming MS thesis. 
+The computation of QPO involves using multiple shooting with multiple nodes to target the quasi-periodic behavior and then utilizing a numerical continuation scheme to compute three different families of QPOs. Despite their complexities, they fundamentally expand the solution space, which makes them an attractive choice to host spacecrafts, formation flying, and transfer design. I have worked on recreating some of the applications and I have been able to come up with a novel application that uses their manifolds, which will be described in more detail in my upcoming MS thesis. 
 <br>
 
 ## 1. Host Orbit
