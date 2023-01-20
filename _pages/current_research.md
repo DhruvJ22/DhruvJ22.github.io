@@ -51,27 +51,26 @@ The computation of QPO involves using multiple shooting with multiple nodes to t
 
 [James Webb Space Telescope (JWST)](https://webb.nasa.gov/) is the most recent example of a mission that uses a QPO as a host orbit. The telescope is hosted in a [Sun-Earth L2 Quasi-Halo orbit](https://jwst-docs.stsci.edu/jwst-observatory-characteristics/jwst-orbit). I was able to recreate the orbit(green) and how the trajectory (grey) of the telescope(red point on orbit) evolves using the CR3BP model as shown below
 
-[![styled-image]({{ site.baseurl }}/files/jwst_10revs.gif)
+![image-center]({{ site.baseurl }}/files/jwst_10revs.gif){: .align-center}
 <br>
 
 ## 2. Maneuver Free Transfers
 
 Maneuver free transfers, also known as heteroclinic transfers, between QPOs can be computed by leveraging their manifolds. The same is not guaranteed for periodic orbits because of their lower dimensionality than QPOs. The construction of these types of transfers relies on identifying a good initial guess, which was done by using a Poincare map and k-d tree, and differential correction. The following interactive plot shows 2 maneuver-free trajectories (yellow and green) that can be used to travel from a L2-Quasi Halo orbit (red) to get to a L1 Quasi-Halo Orbit (blue), JC = 3.13.
 
-<figure class="align-center">
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research//misc/EM_L2qHalo_L1qHalo_JC_3_13_heteroclinc2tramsfers.html" height="450" width="50%"></iframe>
+<figure>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research//misc/EM_L2qHalo_L1qHalo_JC_3_13_heteroclinc2tramsfers.html" height="550" width="100%"></iframe>
     <figcaption>This is an interactive plot</figcaption>
 </figure>
-<br>
 
 ## 3. Transfers between QPOs and Periodic Orbits
 
-The existence and method to compute QPOs have been known since the 20th century and they have been leveraged in a previous [NASA mission](https://solarsystem.nasa.gov/missions/artemis/in-depth/). However, it is only recently that engineers have developed algorithms to compute QPOs and their manfiolds of desired characteristics to enable the use of QPOs directly for mission design. My work builds on these developments and purposes a few improvements to the cutting-edge algorithms to more efficiently compute transfer trajectories between QPOs and periodic orbits. The procedure to compute these types of transfers is similar to that for maneuver-free transfers with the addition of an optimization scheme to obtain locally fuel optimal transfers. The below plot depicts a fuel-efficient transfer trajectory (color) with a maneuver (color) from a qpo(color) to a periodic orbit(color). 
+The existence and method to compute QPOs have been known since the 20th century and they have been leveraged in a previous [NASA mission](https://solarsystem.nasa.gov/missions/artemis/in-depth/). However, it is only recently that engineers have developed algorithms to compute QPOs and their manfiolds of desired characteristics to enable the use of QPOs directly for mission design. My work builds on these developments and purposes a few improvements to the cutting-edge algorithms to more efficiently compute transfer trajectories between QPOs and periodic orbits. The procedure to compute these types of transfers is similar to that for maneuver-free transfers with the addition of an optimization scheme to obtain locally fuel optimal transfers. The below plot depicts a fuel-efficient transfer trajectory from a L2 Quasi-Halo Orbit to a DRO. 
 
-QPO-PO plot
+![image-center2]({{ site.baseurl }}/files/EM_l2qHalo_to_DRO.png){: .align-center}
+<br>
 
 There are many planned missions that will leverage periodic orbits but it is a constant challenge to compute fuel-efficient transfers between them. Thus, I am working on finding these transfers more efficiently by expanding my work to chain periodic orbit - QPO and QPO - periodic orbit transfer to get a periodic orbit - periodic orbit transfer. You can learn more about them in my upcoming thesis. 
-
 
 Technologies used: Python(numpy, scipy, pandas, scikit-learn, plotly, matplotlib), MATLAB, C, Git, Command Line Interface, Latex
 
