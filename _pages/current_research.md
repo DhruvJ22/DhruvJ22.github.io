@@ -42,7 +42,7 @@ The periodic orbits have various applications, as exemplified by the above two N
 
 Quasi-periodic orbits are a higher dimensional solutions than periodic orbits of the CR3BP. A spacecraft in the orbit is bounded to a surface of quasi-periodic solutions but it does not return to a previously traversed state. The orbits are non-trivial to compute because of the dynamical and numerical complexities. Nonetheless, with the recent improvements in our understanding of the dynamics and computational power, it is feasible to compute the orbit families and leverage them in mission design. The below animation depicts how a spacecraft(red) traverses a QPO (blue surface) and its 2D projections: 
 
-![DJ Animation]({{ site.baseurl }}/files/em_l1_quasilyap_JC_3_01_projections.mp4
+![DJ Animation]({{ site.baseurl }}/files/em_l1_quasilyap_JC_3_01_projections.mp4)
 
 The computation of QPO involves using multiple shooting with multiple nodes to target the quasi-periodic behavior and then utilizing a numerical continuation scheme to compute three different families of QPOs. Despite their complexities, they fundamentally expand the solution space, which makes them an attractive choice to host spacecrafts, formation flying, and transfer design. I have worked on recreating some of the applications and I have been able to come up with a novel application that uses their manifolds, which will be described in my upcoming MS thesis. 
 <br>
