@@ -7,7 +7,7 @@ sidebar:
   title: "Current Research"
   nav: current_res_sidebar
 ---
-_(This page might take few seconds to load. Thank you for your patience!)_
+_(This page might take a few seconds to load. Thank you for your patience!)_
 
 # _Introduction_
 <hr style="border:2px solid grey">

@@ -40,13 +40,14 @@ experiences_sidebar:
     - title: "IIT Delhi 2018"
       url: 
   - title: "Assistantships and Fellowship"
+    link: ./
     children: 
     - title: "EURO GA"
-      url: //experiences/
+      link: ./#engineering-undergraduate-research-office-graduate-assistant-euro-ga
     - title: "MEP Summer Fellow"
-      url: //experiences/
+      link: .//#engineering-undergraduate-research-office-graduate-assistant-euro-ga
     - title: "SURF GA"
-      url: //experiences/
+      link: experiences.md#engineering-undergraduate-research-office-graduate-assistant-euro-ga
     - title: "ENGR 162 TA"
       url: //experiences/
     - title: "ENTR 500 TA"
