@@ -31,7 +31,7 @@ Read my [bio]({{site.baseurl }}/bio) to learn about my journey!
 <br>
 <br>
 
-# Current Projects and Responsibilities
+# _Current Projects and Responsibilities_
 <hr style="border:2px solid grey">
 
 I am nearing the end of my Master’s journey, so I am excitedly working on finishing my thesis, which will dwell on the computation and use of quasi-periodic orbits for transfer trajectory design. In addition, I am a teaching assistant for [ENGR 162](experiences.md#engr-162-honors-introduction-to-innovation-and-the-physical-science-of-engineering-design-ii-teaching-assistant) course at Purdue.  

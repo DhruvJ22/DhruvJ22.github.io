@@ -15,8 +15,8 @@ main:
   - title: "Bio"
     url: /bio/    
 
-  - title: "Resume/CV"
-    url: /resume/    
+  - title: "CV"
+    url: /cv/    
     
 past_res_sidebar: 
   - title: "Space Object Taxonomy"
@@ -54,3 +54,11 @@ experiences_sidebar:
     - title: "ENGR 103 TA"
       url: //experiences/
 
+current_res_sidebar:
+  - title: "Introduction"
+  - title: "Lagrange Points and Periodic Orbits"
+  - title: "QPOs and their Applications"
+    children: 
+    - title: "Host Orbit"
+    - title: "Manuever Free Transfers"
+    - title: "Transfers between QPOs and Periodic Orbits" 
