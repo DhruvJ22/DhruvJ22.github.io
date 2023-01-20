@@ -4,19 +4,31 @@
 
 /* Colors */
 $body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$background-color           : #252a34;
+$code-background-color      : mix(#000, $background-color, 15%);
+$code-background-color-dark : mix(#000, $background-color, 20%);
+$text-color                 : #eaeaea;
+$border-color               : mix(#fff, $background-color, 20%);
 
-$primary-color              : #7a8288;
+$primary-color              : #00adb5;
 
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : mix($primary-color, $text-color, 40%);
+$link-color-hover           : mix(#fff, $link-color, 25%);
+$link-color-visited         : mix(#000, $link-color, 25%);
+$masthead-link-color        : $text-color;
+$masthead-link-color-hover  : mix(#000, $text-color, 20%);
 
-$footer-background-color    : $lighter-gray;
-$footer-border-top          : 1px solid $light-gray;
+$footer-background-color    : mix(#000, $background-color, 30%);
+$footer-border-top          : mix(#fff, $background-color, 20%);
+
+$form-background-color      : mix(#000, $background-color, 15%);
+$navicon-link-color-hover   : mix(#000, $background-color, 30%);
+
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}
