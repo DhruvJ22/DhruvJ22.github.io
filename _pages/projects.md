@@ -19,7 +19,7 @@ These projects were done as part of courses at Purdue University, or through my 
 
 **Description** (from the development team): [Poliastro](https://docs.poliastro.space/en/stable/) is an open-source Python library for interactive Astrodynamics and Orbital Mechanics, with a focus on ease of use, speed, and quick visualization. It provides a simple and intuitive API and handles physical quantities with units.
 
-**Contribution**: I had wished to contribute a part of my Master’s research code to the software to expand its use from the two-body problem to the three-body problem. I wrote programs to simulate the Circular Restricted Three Boby Problem and algorithms to compute its equilibrium and periodic solutions. 
+**Contribution**: I had wished to contribute a part of my [Master’s research code](https://github.com/DhruvJ22/Astrodynamics_Research) to the software to expand its use from the two-body problem to the three-body problem. I wrote programs to simulate the Circular Restricted Three Boby Problem and algorithms to compute its equilibrium and periodic solutions. 
 
 **Current Status (9th January 2023)**: The functionalities that I intended to be added to a new release of the software can be found [here](https://github.com/poliastro/poliastro/tree/main/contrib/cr3bp_DhruvJ). A part of the code has been added to the source code ([1](https://github.com/poliastro/poliastro/tree/main/src/poliastro/threebody), [2](https://github.com/poliastro/poliastro/tree/main/src/poliastro/constants), [3](https://github.com/poliastro/poliastro/tree/main/src/poliastro/core/threebody), [4](https://github.com/poliastro/poliastro/tree/main/src/poliastro)). Due to the organizational changes in the core development team, the updates have been delayed.  
 
