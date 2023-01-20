@@ -7,6 +7,7 @@ sidebar:
   title: "Current Research"
   nav: current_res_sidebar
 ---
+{% include base_path %}
 _(This page might take a few seconds to load. Thank you for your patience!)_
 
 # _Introduction_
@@ -25,14 +26,13 @@ CR3BP is a hamiltonian system, so the dynamical systems theory is leveraged to o
 
 The Lagrange points are trivial to compute and there exist five of them in any system in the CR3BP model, namely L1, L2, L3, L4, and L5. Periodic and quasi-periodic orbits can be computed around the points to enable space exploration, economy, and surveillance. Periodic Orbits have a key characteristic, as their name suggests, that a spacecraft in orbit returns to its initial state after a finite period. The computation of periodic orbits is challenging due to the chaotic dynamics and lack of a useful analytical solution. Thus, [numerical methods](https://github.com/DhruvJ22/Numerical-Methods) are used to obtain families of orbits and orbits with desired characteristics. A part of my research code can be found [here](https://github.com/DhruvJ22/Astrodynamics_Research), which can be used to compute the Lagrange points and the periodic orbit families. 
 
-NASA [CAPSTONE](https://www.nasa.gov/directorates/spacetech/small_spacecraft/capstone/) and [ARTEMIS 1](https://www.nasa.gov/image-feature/artemis-i-map) mission leveraged a L2 Halo and a DRO orbit in the Earth-Moon system respectively. The _L2 Halo orbit_(left) and _DRO family_(right), whose members were utilized for the two missions, are plotted below using my publicly available [code]((https://github.com/DhruvJ22/Astrodynamics_Research)) and the family members are colored by Jacobi Constant. 
+NASA [CAPSTONE](https://www.nasa.gov/directorates/spacetech/small_spacecraft/capstone/) and [ARTEMIS 1](https://www.nasa.gov/image-feature/artemis-i-map) mission leveraged a L2 Halo and a DRO orbit in the Earth-Moon system respectively. The _L2 Halo orbit family_(left) and _DRO family_(right), whose members were utilized for the two missions, are plotted below using my publicly available [code](https://github.com/DhruvJ22/Astrodynamics_Research) and the family members are colored by Jacobi Constant. 
 
 <figure class="half">
     <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research/EM_L2_HaloS_family.html" height="450" width="50%"></iframe>
     <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research//misc/EM_DRO_family.html" height="450" width="50%"></iframe>
+    <figcaption>These are interactive plots</figcaption>
 </figure>
-“These are interactive plots”
-
 The periodic orbits have various applications, as exemplified by the above two NASA missions, and are essential in identifying quasi-periodic orbits. 
 <br>
 <br>
@@ -42,23 +42,26 @@ The periodic orbits have various applications, as exemplified by the above two N
 
 Quasi-periodic orbits are a higher dimensional solutions than periodic orbits of the CR3BP. A spacecraft in the orbit is bounded to a surface of quasi-periodic solutions but it does not return to a previously traversed state. The orbits are non-trivial to compute because of the dynamical and numerical complexities. Nonetheless, with the recent improvements in our understanding of the dynamics and computational power, it is feasible to compute the orbit families and leverage them in mission design. The below animation depicts how a spacecraft(red) traverses a QPO (blue surface) and its 2D projections: 
 
+![DJ Animation]({{ site.baseurl }}/files/em_l1_quasilyap_JC_3_01_projections.mp4
 
 The computation of QPO involves using multiple shooting with multiple nodes to target the quasi-periodic behavior and then utilizing a numerical continuation scheme to compute three different families of QPOs. Despite their complexities, they fundamentally expand the solution space, which makes them an attractive choice to host spacecrafts, formation flying, and transfer design. I have worked on recreating some of the applications and I have been able to come up with a novel application that uses their manifolds, which will be described in my upcoming MS thesis. 
 <br>
 
 ## 1. Host Orbit
 
-[James Webb Space Telescope (JWST)](https://webb.nasa.gov/) is the most recent example of a mission that uses a QPO as a host orbit. The telescope is hosted in a [Sun-Earth L2 Quasi-Halo orbit](https://jwst-docs.stsci.edu/jwst-observatory-characteristics/jwst-orbit) and I was able to recreate the orbit using the CR3BP model as shown below
+[James Webb Space Telescope (JWST)](https://webb.nasa.gov/) is the most recent example of a mission that uses a QPO as a host orbit. The telescope is hosted in a [Sun-Earth L2 Quasi-Halo orbit](https://jwst-docs.stsci.edu/jwst-observatory-characteristics/jwst-orbit). I was able to recreate the orbit(green) and how the trajectory (grey) of the telescope(red point on orbit) evolves using the CR3BP model as shown below
 
-JWST ANIMATION
+![DJ Animation]({{ site.baseurl }}/files/jwst_10revs.gif)
 <br>
 
 ## 2. Maneuver Free Transfers
 
-Maneuver free transfers, also known as heteroclinic transfers, between QPOs can be computed by leveraging their manifolds. The same is not guaranteed for periodic orbits because of their lower dimensionality than QPOs. The construction of these types of transfers relies on identifying a good initial guess, which was done by using a Poincare map and k-d tree, and differential correction. The following interactive plot shows 2 maneuver-free trajectories that can be used to travel from a departure L2-Quasi halo (red) to an arrival L1 Quasi-Halo (blue)
+Maneuver free transfers, also known as heteroclinic transfers, between QPOs can be computed by leveraging their manifolds. The same is not guaranteed for periodic orbits because of their lower dimensionality than QPOs. The construction of these types of transfers relies on identifying a good initial guess, which was done by using a Poincare map and k-d tree, and differential correction. The following interactive plot shows 2 maneuver-free trajectories (yellow and green) that can be used to travel from a L2-Quasi Halo orbit (red) to get to a L1 Quasi-Halo Orbit (blue), JC = 3.13.
 
-
-HETEROCLINIC PLOTLY INTERACTIVE
+<figure class="align-center">
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research//misc/EM_L2qHalo_L1qHalo_JC_3_13_heteroclinc2tramsfers.html.html" height="450" width="50%"></iframe>
+    <figcaption>This is an interactive plot</figcaption>
+</figure>
 <br>
 
 ## 3. Transfers between QPOs and Periodic Orbits
@@ -73,10 +76,3 @@ There are many planned missions that will leverage periodic orbits but it is a c
 Technologies used: Python(numpy, scipy, pandas, scikit-learn, plotly, matplotlib), MATLAB, C, Git, Command Line Interface, Latex
 
 Concepts learned: Dynamics Modelling, Numerical Methods, Optimization,  Data Analysis, Data Visualization, Technical Communication, Automation, Software Development, Independent and Creative Work
-
-
-{% include base_path %}
-![DJ Animation]({{ site.baseurl }}/files/qpo_projection.gif)
-
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research/EM_L2_HaloS_family.html" height="525" width="50%"></iframe>
-
