@@ -51,7 +51,7 @@ The computation of QPO involves using multiple shooting with multiple nodes to t
 
 [James Webb Space Telescope (JWST)](https://webb.nasa.gov/) is the most recent example of a mission that uses a QPO as a host orbit. The telescope is hosted in a [Sun-Earth L2 Quasi-Halo orbit](https://jwst-docs.stsci.edu/jwst-observatory-characteristics/jwst-orbit). I was able to recreate the orbit(green) and how the trajectory (grey) of the telescope(red point on orbit) evolves using the CR3BP model as shown below
 
-![DJ Animation]({{ site.baseurl }}/files/jwst_10revs.gif)
+[![styled-image]({{ site.baseurl }}/files/jwst_10revs.gif)
 <br>
 
 ## 2. Maneuver Free Transfers
@@ -59,7 +59,7 @@ The computation of QPO involves using multiple shooting with multiple nodes to t
 Maneuver free transfers, also known as heteroclinic transfers, between QPOs can be computed by leveraging their manifolds. The same is not guaranteed for periodic orbits because of their lower dimensionality than QPOs. The construction of these types of transfers relies on identifying a good initial guess, which was done by using a Poincare map and k-d tree, and differential correction. The following interactive plot shows 2 maneuver-free trajectories (yellow and green) that can be used to travel from a L2-Quasi Halo orbit (red) to get to a L1 Quasi-Halo Orbit (blue), JC = 3.13.
 
 <figure class="align-center">
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research//misc/EM_L2qHalo_L1qHalo_JC_3_13_heteroclinc2tramsfers.html.html" height="450" width="50%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research//misc/EM_L2qHalo_L1qHalo_JC_3_13_heteroclinc2tramsfers.html" height="450" width="50%"></iframe>
     <figcaption>This is an interactive plot</figcaption>
 </figure>
 <br>
