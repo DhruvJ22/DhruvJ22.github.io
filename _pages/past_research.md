@@ -45,7 +45,7 @@ _January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
 
 **Concepts learned**: Orbit Modeling, Monte-Carlo Analysis, Contact Analysis,Technical Communication
 
-A rerport summarizing the mission, and various design analysis and decisions can be found [here]({{site.baseurl }}/files/ADE_Mission_Plan_V4.pdf) . 
+A rerport summarizing the mission, and various design analysis and decisions can be found [here]({{site.baseurl }}/files/ADE_Mission_Plan_V4%20.pdf) . 
 <br>
 <br>
 
