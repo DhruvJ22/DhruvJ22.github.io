@@ -31,26 +31,29 @@ projects_sidebar:
   - title: "Purdue Vibrational Instrumental Payload for Educational Research"
 
 experiences_sidebar:
-  - name: "Industry"
-    sublist:
-    - name: "Dhruva Space 2020"
-    - name: "Dhruva Space 2019"
-    - name: "IIT Delhi 2018"
-  - name: "Assistantships and Fellowship"
+  - title: "Industry"
+    children:
+    - title: "Dhruva Space 2020"
+      url: //experiences/
+    - title: "Dhruva Space 2019"
+      url: //experiences/
+    - title: "IIT Delhi 2018"
+      url: 
+  - title: "Assistantships and Fellowship"
     link: ./
-    sublist: 
-    - name: "EURO GA"
+    children: 
+    - title: "EURO GA"
       link: ./#engineering-undergraduate-research-office-graduate-assistant-euro-ga
-    - name: "MEP Summer Fellow"
-      link: .//#engineering-undergraduate-research-office-graduate-assistant-euro-ga
-    - name: "SURF GA"
-      link: experiences.md#engineering-undergraduate-research-office-graduate-assistant-euro-ga
-    - name: "ENGR 162 TA"
-      link: //experiences/
-    - name: "ENTR 500 TA"
-      link: //experiences/
-    - name: "ENGR 103 TA"
-      link: //experiences/
+    - title: "MEP Summer Fellow"
+      url: experiences.md#engineering-undergraduate-research-office-graduate-assistant-euro-ga 
+    - title: "SURF GA"
+      url: experiences.html#engineering-undergraduate-research-office-graduate-assistant-euro-ga
+    - title: "ENGR 162 TA"
+      url: //experiences/
+    - title: "ENTR 500 TA"
+      url: //experiences/
+    - title: "ENGR 103 TA"
+      url: //experiences/
 
 current_res_sidebar:
   - title: "Introduction"
