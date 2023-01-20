@@ -20,24 +20,32 @@ main:
     
 past_res_sidebar: 
   - title: "Space Object Taxonomy"
+    url: //past_research/#space-object-taxonomy
   - title: "Aerodynamics Deorbit Experiment"
+    url: //past_research/#aerodynamics-deorbit-experiement
   - title: "Spacecraft Docking and Simulation"
+    url: //past_research/#spacecraft-docking-and-simulation
 
 projects_sidebar:
   - title: "Poliastro"
+    url: //projects/#poliastro
   - title: 'Numerical Methods'
+    url: //projects/#numerical-methods
   - title: 'Senior Spacecraft Design Project'
+    url: //projects/#senior-spacecraft-design-project-purdue-university
   - title: "Analysis of Motor Misalignment, Jet-Damping, and Mass variation on a Spinning-Thrusting Cubesat"
+    url: //projects/#analysis-of-motor-misalignment-jet-damping-and-mass-variation-on-a-spinning-thrusting-cubesat
   - title: "Purdue Vibrational Instrumental Payload for Educational Research"
+    url: //projects/#purdue-vibrational-instrumental-payload-for-educational-research
 
 experiences_sidebar:
   - title: "Industry"
-    url: //experiences/
+    url: //experiences/#industry
     children:
     - title: "Dhruva Space 2020"
-      url: //experiences/#dhruva-space-,-india-(summer-2020)
+      url: //experiences/#dhruva-space-india-summer-2020
     - title: "Dhruva Space 2019"
-      url: //experiences/#dhruva-space-,-india-(summer-2019)
+      url: //experiences/#dhruva-space-india-summer-2019
     - title: "IIT Delhi 2018"
       url: //experiences/#indian-institude-of-technology-delhi-india-summer-2018
   - title: "Assistantships and Fellowship"
@@ -58,9 +66,15 @@ experiences_sidebar:
 
 current_res_sidebar:
   - title: "Introduction"
+    url: //current_research/#introduction 
   - title: "Lagrange Points and Periodic Orbits"
+    url: //current_research/#lagrange-points-and-periodic-orbits
   - title: "QPOs and their Applications"
+    url: //current_research/#qpos-and-their-applications
     children: 
     - title: "Host Orbit"
+      url: //current_research/#1-host-orbit
     - title: "Manuever Free Transfers"
+      url: //current_research/#2-maneuver-free-transfers
     - title: "Transfers between QPOs and Periodic Orbits" 
+      url: //current_research/#3-transfers-between-qpos-and-periodic-orbits
