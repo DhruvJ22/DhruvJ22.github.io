@@ -24,11 +24,7 @@ I enjoy working on projects that are at the intersection of __astrodynamics, num
 - Space Systems and Sensors ([1](projects.md#senior-spacecraft-design-project-purdue-university), [2](projects.md#purdue-vibrational-instrumental-payload-for-educational-research), [3](past_research.md#aerodynamics-deorbit-experiement), [4](experiences.md#indian-institude-of-technology-delhi-india-summer-2018))
 - Software and Algorithm Development ([1](https://github.com/DhruvJ22/Astrodynamics_Research), [2](projects.md#poliastro), [3](projects.md#numerical-methods))
 
-Furthermore, I have worked in various [assistantships and fellowship](experiences.md#assistantships--fellowship-at-purdue-univeristy) positions that have enabled me to become a better mentor, communicator, instructor, team leader, facilitator, and team player. 
-
-Read my [bio]({{site.baseurl }}/bio) to learn about my journey!
-<br>
-<br>
+Furthermore, I have worked in various [assistantships and fellowship](experiences.md#assistantships--fellowship-at-purdue-univeristy) positions that have enabled me to become a better mentor, communicator, instructor, team leader, facilitator, and team player. Read my [bio]({{site.baseurl }}/bio) to learn about my journey!
 
 # _Current Projects and Responsibilities_
 <hr style="border:2px solid grey">
