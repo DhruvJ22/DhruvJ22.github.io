@@ -16,7 +16,7 @@ These are the research projects that I pursued as an independent study with a fa
 
 # _Space Object Taxonomy_
 <hr style="border:2px solid grey">
-_May 2018 - Feburary 2020_, __Prof. Carolin Frueh, Purdue University__
+_May 2018 - Feburary 2020_, __[Prof. Carolin Frueh](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=111420), Purdue University__
 
 **Description**: The multi-semester-long research was geared towards identifying patterns in the orbit of Geosynchronous Orbit (GEO) space objects. The patterns enabled in designing a program to autonomously classify new space objects into a taxonomy based on the 8 groups defined in the ESA [GEO Classification Report](http://www.astronomer.ru/data/0128/ESA_GEO_Classification_Report_issue_19.pdf).
 
@@ -32,7 +32,7 @@ A report detailing part of the work can be found [here]({{site.baseurl }}/files/
 
 # _Aerodynamics Deorbit Experiement_
 <hr style="border:2px solid grey">
-_January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
+_January 2019 - May 2019_, __[Prof. David Spencer](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=146018), Purdue University__
 
 
 **Description**: A CubeSat was being developed to characterize the use of a deployable drag sail as a passive deorbit mechanism through a multi-university partnership. More information about the project can be found [here](https://engineering.purdue.edu/CubeSat/missions/ade)
@@ -51,7 +51,7 @@ A rerport summarizing the mission, and various design analysis and decisions can
 
 # _Spacecraft Docking and Simulation_
 <hr style="border:2px solid grey">
-_January 2019 - May 2019_, __Prof. David Spencer, Purdue University__
+_August 2019 - December 2019_, __[Prof. James Goppert](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=37293), Purdue University__
 
 **Description**: The semester long research was focused on reviewing the literature to reliaze spacecraft docking and rendezvous techniques, and developing a program to compute fuel optimal trajectory for a Chaser spacecraft to intercept with a Target spacecraft. The problem was posed as a simplified docking problem, which focused on calculating a trajectory that can enable the intersection of the two spacecrafts in position and velocity states, but not in the attitude. 
 

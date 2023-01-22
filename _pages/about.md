@@ -9,9 +9,11 @@ redirect_from:
 ---
 <hr style="border:2px solid grey">
 
-I am Dhruv Jain, an aerospace engineering graduate student at Purdue University, USA. I am working towards my MS thesis as a member of the [Multi-body Dynamics Research Group](https://engineering.purdue.edu/people/kathleen.howell.1/index.html) led by [Dr. Kathleen Howell](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=1384). My [current research]({{site.baseurl }}/current_research) is centered around leveraging quasi-periodic orbits and their manifolds to design fuel-efficient transfer trajectories in the cislunar space. 
+I am Dhruv Jain, an aerospace engineering graduate student at Purdue University, USA. I am working towards my MS thesis as a member of the [Multi-body Dynamics Research Group](https://engineering.purdue.edu/people/kathleen.howell.1/index.html) led by [Prof. Kathleen Howell](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=1384). My [current research]({{site.baseurl }}/current_research) is centered around leveraging quasi-periodic orbits and their manifolds to design fuel-efficient transfer trajectories in the cislunar space. 
 
-I enjoy working on projects that are at the intersection of astrodynamics, numerical methods, and software engineering. I have had the opportunity to work on various projects to obtain experience in the three areas of my interest and become a better engineer. I have gained a strong foundational understanding of astrodynamics, space systems, numerical methods, and software development through experiences in the following topics: 
+__I hope to leverage all my learnings to contribute to the technological developments in robotics and space travel to sustainably improve our lives on Earth! _I am currently seeking an industry opportunity related to aerospace engineering that enables space exploration and sustainably ameliorates our lives.___
+
+I enjoy working on projects that are at the intersection of __astrodynamics, numerical methods, and software engineering__. I have had the opportunity to work on various projects to obtain experience in the three areas of my interest and become a better engineer. I have gained a strong foundational understanding of astrodynamics, space systems, numerical methods, and software development through experiences in the following topics: 
 
 - Orbit and Trajectory design in Multi-body regimes ([1]({{site.baseurl }}/current_research), [2](https://github.com/DhruvJ22/Astrodynamics_Research), [3](projects.md#poliastro))
 - Spacecraft Attitude Dynamics and Controls ([1](experiences.md#dhruva-space-,-india-(summer-2020)), [2](projects.md#analysis-of-motor-misalignment-jet-damping-and-mass-variation-on-a-spinning-thrusting-cubesat)) 
@@ -23,10 +25,6 @@ I enjoy working on projects that are at the intersection of astrodynamics, numer
 - Software and Algorithm Development ([1](https://github.com/DhruvJ22/Astrodynamics_Research), [2](projects.md#poliastro), [3](projects.md#numerical-methods))
 
 Furthermore, I have worked in various [assistantships and fellowship](experiences.md#assistantships--fellowship-at-purdue-univeristy) positions that have enabled me to become a better mentor, communicator, instructor, team leader, facilitator, and team player. 
-
-I hope to leverage all my learnings to contribute to the technological developments in robotics and space travel to sustainably improve our lives on Earth!
-
-_I am currently seeking an industry opportunity related to aerospace engineering that enables space exploration and sustainably ameliorates our lives._ 
 
 Read my [bio]({{site.baseurl }}/bio) to learn about my journey!
 <br>
