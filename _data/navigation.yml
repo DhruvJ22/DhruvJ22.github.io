@@ -15,7 +15,7 @@ main:
   - title: "Bio"
     url: /bio/    
 
-  - title: "CV"
+  - title: "Resume/CV"
     url: /cv/    
     
 past_res_sidebar: 

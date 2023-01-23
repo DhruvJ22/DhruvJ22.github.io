@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF below does not load, you can download it [here]({{ site.baseurl }}/files/Dhruv_Jain_CV_20Jan23.pdf). 
+My CV can be downloaded through [this]({{ site.baseurl }}/files/Dhruv_Jain_CV_20Jan23.pdf) link. 
 
-<embed src="{{ site.baseurl }}/files/Dhruv_Jain_CV_20Jan23.pdf" width="500" height="650" type='application/pdf'>
+If resume below does not load then you can download it [here]({{ site.baseurl }}/files/Dhruv_Jain_Resume_22Jan23.pdf). 
+
+<embed src="{{ site.baseurl }}/files/Dhruv_Jain_Resume_22Jan23.pdf" width="500" height="650" type='application/pdf'>
