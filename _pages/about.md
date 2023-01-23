@@ -11,7 +11,7 @@ redirect_from:
 
 I am Dhruv Jain, an aerospace engineering graduate student at Purdue University, USA. I am working towards my MS thesis as a member of the [Multi-body Dynamics Research Group](https://engineering.purdue.edu/people/kathleen.howell.1/index.html) led by [Prof. Kathleen Howell](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=1384). My [current research]({{site.baseurl }}/current_research) is centered around leveraging quasi-periodic orbits and their manifolds to design fuel-efficient transfer trajectories in the cislunar space. 
 
-__I hope to leverage all my learnings to contribute to the technological developments in robotics and space travel to sustainably improve our lives on Earth! _I am currently seeking an industry opportunity related to aerospace engineering that enables space exploration and sustainably ameliorates our lives.___
+I hope to leverage all my learnings to contribute to the technological developments in robotics and space travel to sustainably improve our lives on Earth! ___I am currently seeking an industry opportunity related to aerospace engineering that enables space exploration and sustainably ameliorates our lives.___ My resume can be found [here]({{site.baseurl }}/cv)
 
 I enjoy working on projects that are at the intersection of __astrodynamics, numerical methods, and software engineering__. I have had the opportunity to work on various projects to obtain experience in the three areas of my interest and become a better engineer. I have gained a strong foundational understanding of astrodynamics, space systems, numerical methods, and software development through experiences in the following topics: 
 

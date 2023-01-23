@@ -11,6 +11,6 @@ redirect_from:
 
 My CV can be downloaded through [this]({{ site.baseurl }}/files/Dhruv_Jain_CV_20Jan23.pdf) link. 
 
-If resume below does not load then you can download it [here]({{ site.baseurl }}/files/Dhruv_Jain_Resume_22Jan23.pdf). 
+If my resume below does not load then you can download it [here]({{ site.baseurl }}/files/Dhruv_Jain_Resume_22Jan23.pdf). 
 
 <embed src="{{ site.baseurl }}/files/Dhruv_Jain_Resume_22Jan23.pdf" width="500" height="650" type='application/pdf'>
