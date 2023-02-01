@@ -51,18 +51,18 @@ experiences_sidebar:
   - title: "Assistantships and Fellowship"
     url: /experiences/#assistantships--fellowship-at-purdue-univeristy
     children: 
-    - title: "EURO GA"
-      url: /experiences/#engineering-undergraduate-research-office-graduate-assistant-euro-ga
     - title: "MEP Summer Fellow"
       url: /experiences/#minority-engineering-program-summer-fellow
+    - title: "EURO GA"
+      url: /experiences/#engineering-undergraduate-research-office-graduate-assistant-euro-ga
     - title: "SURF GA"
       url: /experiences/#summer-undergraduate-research-fellowship-graduate-assistant-surf-ga
     - title: "ENGR 162 TA"
       url: /experiences/#engr-162-honors-introduction-to-innovation-and-the-physical-science-of-engineering-design-ii-teaching-assistant
-    - title: "ENTR 500 TA"
-      url: /experiences/#entr-500-technology-commercialization-teaching-assistant
     - title: "ENGR 103 TA"
       url: /experiences/#engr-103-introduction-to-engineering-in-practice-teaching-assistant
+    - title: "ENTR 500 TA"
+      url: /experiences/#entr-500-technology-commercialization-teaching-assistant
 
 current_res_sidebar:
   - title: "Introduction"

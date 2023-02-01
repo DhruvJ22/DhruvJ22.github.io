@@ -16,6 +16,7 @@ These projects were done as part of coursework at Purdue University, or through 
 
 # _Poliastro_
 <hr style="border:2px solid grey">
+_2022_
 
 **Description** (from the development team): [Poliastro](https://docs.poliastro.space/en/stable/) is an open-source Python library for interactive Astrodynamics and Orbital Mechanics, with a focus on ease of use, speed, and quick visualization. It provides a simple and intuitive API and handles physical quantities with units.
 
@@ -33,6 +34,7 @@ These projects were done as part of coursework at Purdue University, or through 
 
 # _Numerical Methods_
 <hr style="border:2px solid grey">
+_2021, 2022_
 
 **Description**: The project involved understanding and implementing various Numerical Methods algorithms: root-finding algorithms, linear equation solvers, numerical interpolation, numerical integration, finite differentiation, partial differential equation solvers, and numerical continuation. 
 
@@ -48,6 +50,7 @@ The code and more detailed discussion can be found on [DhruvJ22/Numerical-Method
 
 # _Senior Spacecraft Design Project, Purdue University_
 <hr style="border:2px solid grey">
+_2020_
 
 **Description**: A group of 8 students collaborated to design a space mission to leverage the [Signals of Opportunity](https://ieeexplore.ieee.org/document/8520391) technology to collect the sub-soil moisture data and develop on the success of the [NASA SMAP](https://smap.jpl.nasa.gov/) mission. The project was formulated as a call to a NASA Announcement of Opportunity. The design was focused on the Pre-Phase A development of the mission. The team planned the Science Objectives and Requirements, Science Implementation, Mission Implementation, Cost, and Schedule
 
@@ -65,6 +68,7 @@ The final report for the project can be found [here]({{site.baseurl }}/files/GAE
 
 # _Analysis of Motor Misalignment, Jet-Damping, and Mass variation on a Spinning-Thrusting Cubesat_
 <hr style="border:2px solid grey">
+_2021, 2022_
 
 **Description**: The evolution of the attitude of a satellite can be understood by making multiple simplifying assumptions but those assumptions are not valid for a CubeSat. This study analyzes the attitude of a Spinning-Thrusting CubeSat with realistic challenges, such as mass variation and motor misalignment. The attitude is simulated using numerical integration of Euler’s equations of motion and an analytical solution. 
 
@@ -80,6 +84,7 @@ The code and more detailed [discussion]({{site.baseurl }}/files/CubeSat_Attitude
 
 # _Purdue Vibrational Instrumental Payload for Educational Research_
 <hr style="border:2px solid grey">
+_2018_
 
 **Description**: A team of 5 collaborated for a semester to make progress with the development of a device that is capable of measuring vibrations on a payload of a suborbital rocket flight for educational purposes. 
 
