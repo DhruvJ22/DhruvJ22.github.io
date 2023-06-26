@@ -13,4 +13,4 @@ My CV can be downloaded through [this]({{ site.baseurl }}/files/Dhruv_Jain_CV_23
 
 If my resume below does not load then you can download it [here]({{ site.baseurl }}/files/Dhruv_Jain_Resume_26Jun23.pdf). 
 
-<embed src="{{ site.baseurl }}/files/Dhruv_Jain_Resume_22Jan23.pdf" width="500" height="650" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Dhruv_Jain_Resume_26Jun23.pdf" width="500" height="650" type='application/pdf'>
