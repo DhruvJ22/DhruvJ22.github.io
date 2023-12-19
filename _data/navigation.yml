@@ -18,8 +18,8 @@ main:
   - title: "Resume/CV"
     url: /cv/    
 
-#  - title: "Publications"
-#    url: /publications/    
+  - title: "Publications"
+    url: /publications/    
     
     
 past_res_sidebar: 
