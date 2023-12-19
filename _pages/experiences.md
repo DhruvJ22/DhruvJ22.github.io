@@ -20,7 +20,7 @@ The following industry experiences and assistantships, which I held during my ti
 ## _[Dhruva Space](https://www.dhruvaspace.com/), India (Summer 2020)_
 <hr style="border:1px solid grey">
 
-**Description**: The 3-month long internship was geared towards programming an attitude dynamics and controls simulator in Python to simulate the attitude of CubeSat with passive magnetic attitude control (PMAC) and the dynamics coupled with orbital perturbations. The goal was to assist the hardware team to size the PMAC hardware based on the results of simulated scenarios. In addition, the code had to be designed in a modular fashion to enable the easy addition of sensor models and determination schemes, such as the Unscented Kalman Filter. The analysis from the simulator was used to instruct the choice of the attitude control hardware used for Thybolt CubeSats launched in 2022.
+**Description**: The 3-month long internship was geared towards programming an attitude dynamics and controls simulator in Python to simulate the attitude of CubeSat with passive magnetic attitude control (PMAC) and the dynamics coupled with orbital perturbations. The goal was to assist the hardware team to size the PMAC hardware based on the results of simulated scenarios. In addition, the code had to be designed in a modular fashion to enable the easy addition of sensor models and orbit determination schemes, such as the Unscented Kalman Filter. The analysis from the simulator was used to instruct the choice of the attitude control hardware used for Thybolt CubeSats launched in 2022.
 
 **Learnings**: I gained experience with designing and coding a simulator from the ground up using Object Oriented Programming and stakeholder (hardware team) requirements with minimal supervision. In addition, I honed my dynamics modeling skills by simulating the Earth’s magnetic field and Hysteresis rod torque. A unique thing I learned was how to compartmentalize sensitive information to be able to share only selective information with another intern, who worked on developing sensor models to be added to the simulator.
 
@@ -35,7 +35,7 @@ The following industry experiences and assistantships, which I held during my ti
 
 **Description**: The 12-week internship was centered around designing various Earth Observation and communication satellite constellations. The design focused on developing an orbit propagator to model the orbits and analyzing spatial and temporal resolutions for various coverage requirements and payload capabilities. An additional aspect was to visualize the satellite constellation around Earth and their ground track.
 
-**Learnings**: I gained a fundamental understanding of satellite constellation design and how to set up a workflow to test multiple configurations to identify designs that can meet the requirements. I realized the importance of clear and concise technical communication to share complicated results and the power of animations to visualize the data. 
+**Learnings**: I gained a fundamental understanding of satellite constellation design and how to set up a workflow to test multiple configurations to identify designs that can meet the desired requirements. I realized the importance of clear and concise technical communication to share complicated results and the power of animations to visualize the data. 
 
 **Technologies used**: Python, MATLAB, GMAT, SaVi
 
@@ -78,9 +78,21 @@ _May 2021 - August 2021_
 
 The 11-week-long SURF program focused on helping the selected students to experience the entire research lifecycle, from performing a literature review to presenting their work in a symposium. My role was centered around assisting other staff to grade assignments, providing constructive feedback on the students’ work in a non-technical capacity, hosting professional development seminars, and organizing the SURF symposium. This opportunity allowed me to become adept at agile thinking, organizing large-scale events, and a more confident communicator. 
 
+_May 2023 - August 2023_
+
+I was Lead GA-------
+
+
+
+## _[ENGR 161: Honors Introduction To Innovation And The Physical Science Of Engineering Design I](https://catalog.purdue.edu/preview_course_nopop.php?catoid=8&coid=82444), Teaching Assistant_ 
+<hr style="border:1px solid grey">
+_August 2023 - December 2023_
+
+The course was centered around teaching students the principles of engineering through experiential learning by leveraging MATLAB, Python, and Raspberry Pi. I assisted the students with in-class questions and the operational logistics of various projects and activities of the course.
+
 ## _[ENGR 162: Honors Introduction To Innovation And The Physical Science Of Engineering Design II](https://catalog.purdue.edu/preview_course_nopop.php?catoid=8&coid=82445), Teaching Assistant_ 
 <hr style="border:1px solid grey">
-_January 2023 - Present_
+_January 2023 - August 2023_
 
 The course was centered around teaching students the principles of engineering through experiential learning by leveraging MATLAB, Python, and Raspberry Pi. I assisted the students with in-class questions and the operational logistics of various projects and activities of the course. 
 
