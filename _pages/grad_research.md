@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Current Research"
-permalink: /current_research/
+title: "Graduate Research"
+permalink: /grad_research/
 author_profile: false
 sidebar:
-  title: "Current Research"
+  title: "Graduate Research"
   nav: current_res_sidebar
 ---
 {% include base_path %}

@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Current Research"
-    url: /current_research/
+  - title: "Graduate Research"
+    url: /grad_research/
 
   - title: "Undergraduate Research"
     url: /undergrad_research/    
