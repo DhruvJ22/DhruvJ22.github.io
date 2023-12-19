@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Past Research"
-permalink: /past_research/
+title: "Undergraduate Research"
+permalink: /undergrad_research/
 author_profile: false
 sidebar:
-  title: "Past Research"
+  title: "Undergraduate Research"
   nav: past_res_sidebar
 ---
 

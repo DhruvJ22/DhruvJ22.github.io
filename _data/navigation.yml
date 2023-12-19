@@ -3,8 +3,8 @@ main:
   - title: "Current Research"
     url: /current_research/
 
-  - title: "Past Research"
-    url: /past_research/    
+  - title: "Undergraduate Research"
+    url: /undergrad_research/    
 
   - title: "Projects"
     url: /projects/    
@@ -17,6 +17,10 @@ main:
 
   - title: "Resume/CV"
     url: /cv/    
+
+#  - title: "Publications"
+#    url: /publications/    
+    
     
 past_res_sidebar: 
   - title: "Space Object Taxonomy"
