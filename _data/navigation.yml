@@ -15,8 +15,8 @@ main:
   - title: "Bio"
     url: /bio/    
 
-  - title: "Resume/CV"
-    url: /cv/    
+#  - title: "Resume/CV"
+#    url: /cv/    
 
   - title: "Publications"
     url: /publications/    
