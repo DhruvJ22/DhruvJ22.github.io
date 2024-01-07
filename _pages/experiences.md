@@ -82,13 +82,14 @@ The 11-week-long SURF program focused on helping the selected students to experi
 <hr style="border:1px solid grey">
 _August 2023 - December 2023_
 
-The course was centered around teaching students the principles of engineering through experiential learning by leveraging Python, and Raspberry Pi. I assisted the students with in-class questions and the operational logistics of various projects and activities of the course.
+The course was centered around teaching students the principles of engineering through experiential learning by leveraging Python, and Raspberry Pi. I provided constructive feedback to 400+ students on homework and projects. Additionally, I assisted with operational logistics of various class activities and projects, and streamlined the inventory management system of $100,000+ products. 
 
 ## _[ENGR 162: Honors Introduction To Innovation And The Physical Science Of Engineering Design II](https://catalog.purdue.edu/preview_course_nopop.php?catoid=8&coid=82445), Teaching Assistant_ 
 <hr style="border:1px solid grey">
-_January 2023 - August 2023_
+_January 2023 - May 2023_
 
-The course was centered around teaching students the principles of engineering through experiential learning by leveraging MATLAB, Python, and Raspberry Pi. I assisted the students with in-class questions and the operational logistics of various projects and activities of the course. 
+The course was centered around teaching students the principles of engineering through experiential learning by leveraging Python, and Raspberry Pi. I provided constructive feedback to 400+ students on homework and projects. Additionally, I assisted with operational logistics of various class activities and projects, and streamlined the inventory management system of $100,000+ products. 
+
 
 ## _[ENGR 103: Introduction to Engineering in Practice](https://catalog.purdue.edu/preview_course_nopop.php?catoid=7&coid=50950), Teaching Assistant_ 
 <hr style="border:1px solid grey">

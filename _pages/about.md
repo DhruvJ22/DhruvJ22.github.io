@@ -21,7 +21,7 @@ My graduate journey at Purdue was anything but ordinary. Beyond navigating the c
 
 - Most Non-technically Challenging Contribution: Passionate about empowering underrepresented youth, I designed and taught a [summer robotics course](experiences.md#minority-engineering-program-summer-fellow) in 2022 specifically for 11th-grade students from underrepresented backgrounds, catering to their individual learning strengths and needs.
 
-- Most Impactful Non-technical Contribution: As the [Lead Graduate Assistant (GA)](experiences.md##summer-undergraduate-research-fellowship-graduate-assistant-surf-ga) for Purdue's Engineering Undergraduate Research Office in summer 2023, I played a pivotal role in enriching the professional development experience for 10 GAs and over 250 students from across the globe.
+- Most Impactful Non-technical Contribution: As the [Lead Graduate Assistant (GA)](experiences.md#summer-undergraduate-research-fellowship-graduate-assistant-surf-ga) for Purdue's Engineering Undergraduate Research Office in summer 2023, I played a pivotal role in enriching the professional development experience for 10 GAs and over 250 students from across the globe.
 
 I enjoy working on projects that are at the intersection of __astrodynamics, numerical methods, and software engineering__. I have had the opportunity to work on various projects to obtain experience in the three areas of my interest and become a better engineer. I have gained a strong foundational understanding of astrodynamics, space systems, numerical methods, and software development through experiences in the following topics: 
 
