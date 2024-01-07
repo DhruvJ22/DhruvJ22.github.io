@@ -10,7 +10,7 @@ sidebar:
 
 {% include base_path %}
 
-These are the research projects that I pursued as independent studies with faculty members during my undergraduate journey. 
+These are the research projects that I pursued as independent studies with faculty members during my undergraduate journey at Purdue University. 
 <br>
 <br>
 

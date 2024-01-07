@@ -72,23 +72,17 @@ _January 2021 - May 2022_
 
 I worked in a multi-faceted role, where I was able to impact all aspects that the office catered to. The roles of the office were to analyze research for credit data, mentor undergraduate students to be successful in finding and pursuing research opportunities, host outreach events, and organize the Purdue Summer Undergraduate Research Fellowship (SURF) program. I assisted with planning the logistics of the program, scheduling the program, updating the application system, student-faculty pairing, mentoring undergraduate students, and hiring SURF GAs. In addition, I participated and led multiple outreach events. Furthermore, I analyzed student participation data related to research for credit and SURF to assist the College of Engineering leadership to make funding decisions. The various responsibilities allowed me to become a better communicator, mentor, team player, and team leader. 
 
-## _[Summer Undergraduate Research Fellowship](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF), Graduate Assistant (SURF GA)_
+## _[Summer Undergraduate Research Fellowship](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF), (Lead_ Graduate Assistant (SURF GA)_
 <hr style="border:1px solid grey">
-_May 2021 - August 2021_
+_May 2021 - August 2021, May 2023 - August 2023_
 
 The 11-week-long SURF program focused on helping the selected students to experience the entire research lifecycle, from performing a literature review to presenting their work in a symposium. My role was centered around assisting other staff to grade assignments, providing constructive feedback on the students’ work in a non-technical capacity, hosting professional development seminars, and organizing the SURF symposium. This opportunity allowed me to become adept at agile thinking, organizing large-scale events, and a more confident communicator. 
-
-_May 2023 - August 2023_
-
-I was Lead GA-------
-
-
 
 ## _[ENGR 161: Honors Introduction To Innovation And The Physical Science Of Engineering Design I](https://catalog.purdue.edu/preview_course_nopop.php?catoid=8&coid=82444), Teaching Assistant_ 
 <hr style="border:1px solid grey">
 _August 2023 - December 2023_
 
-The course was centered around teaching students the principles of engineering through experiential learning by leveraging MATLAB, Python, and Raspberry Pi. I assisted the students with in-class questions and the operational logistics of various projects and activities of the course.
+The course was centered around teaching students the principles of engineering through experiential learning by leveraging Python, and Raspberry Pi. I assisted the students with in-class questions and the operational logistics of various projects and activities of the course.
 
 ## _[ENGR 162: Honors Introduction To Innovation And The Physical Science Of Engineering Design II](https://catalog.purdue.edu/preview_course_nopop.php?catoid=8&coid=82445), Teaching Assistant_ 
 <hr style="border:1px solid grey">
@@ -106,4 +100,4 @@ The course helped students to professionally develop and prepare for research op
 <hr style="border:1px solid grey">
 _August 2022 - December 2022_
 
-The weekly seminar allowed the students to learn about intellectual property rights, patent law, funding, business plan, etc to prepare them to commercialize any technology. I assisted in grading thought papers and providing constructive feedback to the students. In addition, I was able to leverage my previous experiences to streamline administrative tasks, such as taking attendance and administering quizzes. I gained important knowledge to commercialize technologies and further honed the skill to provide constructive feedback.
+The weekly seminar course allowed the students to learn about intellectual property rights, patent law, funding, business plan, etc to prepare them to commercialize any technology. I assisted in grading thought papers and providing constructive feedback to the students. In addition, I was able to leverage my previous experiences to streamline administrative tasks, such as taking attendance and administering quizzes. I gained important knowledge to commercialize technologies and further honed the skill to provide constructive feedback.
