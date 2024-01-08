@@ -13,11 +13,11 @@ _(This page might take a few seconds to load. Thank you for your patience!)_
 # _Introduction_
 <hr style="border:2px solid grey">
 
-My current research is focused on designing transfer trajectories between periodic orbits by leveraging quasi-periodic orbits and their manifolds in the cislunar space. 
+My master's  research focused on formulating frameworks to design transfer trajectories between periodic orbits by leveraging quasi-periodic orbits and their associated manifolds. 
 
-The trajectory and orbit design in a multi-body gravitational system is a challenging task due to chaotic dynamics and numerical complexities. However, certain assumptions can be made to aid in the description and analysis of the dynamics of a spacecraft for preliminary design, which enables the realization of dynamical structures that can then be utilized to systematically design desired trajectories and orbits. I have used the Circular Restricted Three Body Problem (CR3BP) to model the dynamics of a spacecraft under the influence of the Earth and the Moon. 
+The trajectory and orbit design in a multi-body gravitational system is a challenging task due to chaotic dynamics and numerical complexities. However, certain assumptions can be made to aid in the description and analysis of the dynamics of a spacecraft for preliminary design, which enables the realization of dynamical structures that can then be utilized to systematically design desired trajectories and orbits. I have employed the Circular Restricted Three Body Problem (CR3BP) to model the dynamics of a spacecraft under the influence of the Earth and the Moon. 
 
-CR3BP is a hamiltonian system, so the dynamical systems theory is leveraged to obtain fundamental solutions and their manifolds to characterize the global dynamics. The three types of fundamental solutions are the equilibrium, periodic and quasi-periodic solutions. My focus is on the applications of the quasi-periodic solutions that exist as families of quasi-periodic orbits (QPOs) in CR3BP. The Lagrange points, which are the equilibrium solutions, and periodic orbit families play a crucial role in computing QPOs and realizing their benefits. 
+The CR3BP is a hamiltonian system, so the dynamical systems theory is leveraged to obtain fundamental solutions and their manifolds to characterize the global dynamics. The three types of fundamental solutions are the equilibrium, periodic and quasi-periodic solutions. My focus is on the applications of the quasi-periodic solutions that exist as families of quasi-periodic orbits (QPOs) in CR3BP. The Lagrange points, which are the equilibrium solutions, and periodic orbit families play a crucial role in computing QPOs and realizing their benefits. 
 <br>
 <br>
 
@@ -44,7 +44,7 @@ Quasi-periodic orbits are a higher dimensional solutions than periodic orbits of
 
 ![DJ Animation]({{ site.baseurl }}/files/em_l1_quasilyap_JC_3_01_projections.gif){: .align-center}
 
-The computation of QPO involves using multiple shooting with multiple nodes to target the quasi-periodic behavior and then utilizing a numerical continuation scheme to compute three different families of QPOs. Despite their complexities, they fundamentally expand the solution space, which makes them an attractive choice to host spacecrafts, formation flying, and transfer design. I have worked on recreating some of the applications and I have been able to come up with a novel application that uses their manifolds, which will be described in more detail in my upcoming MS thesis. 
+The computation of QPO involves using multiple shooting with multiple nodes to target the quasi-periodic behavior and then utilizing a numerical continuation scheme to compute three different families of QPOs. Despite their complexities, they fundamentally expand the solution space, which makes them an attractive choice to host spacecrafts, formation flying, and transfer design. I have worked on recreating some of the applications and I have been able to come up with two novel frameworks that leverage their assocuated manifolds, as detailed in my [thesis](https://hammer.purdue.edu/articles/thesis/Transfer_Trajectory_Design_Strategies_Informed_by_Quasi-Periodic_Orbits/24718713/1) and a [conference paper](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2024_AIAA_JaiHow.pdf). 
 <br>
 
 ## 1. Host Orbit
@@ -65,11 +65,21 @@ Maneuver free transfers, also known as heteroclinic transfers, between QPOs can 
 
 ## 3. Transfers between QPOs and Periodic Orbits
 
-The existence and method to compute QPOs have been known since the 1980's and they have been leveraged in a previous [NASA mission](https://solarsystem.nasa.gov/missions/artemis/in-depth/). However, it is only recently that engineers have developed algorithms to compute QPOs and their manfiolds of desired characteristics to enable the use of QPOs directly for mission design. My work builds on these developments and purposes a few improvements to the cutting-edge algorithms to more efficiently compute transfer trajectories between QPOs and periodic orbits. The procedure to compute these types of transfers is similar to that for maneuver-free transfers with the addition of an optimization scheme to obtain locally fuel optimal transfers. The below plot depicts a fuel-efficient transfer trajectory from a L2 Quasi-Halo Orbit to a DRO. 
+The existence and method to compute QPOs have been known since the 1980's and they have been leveraged in a previous [NASA mission](https://solarsystem.nasa.gov/missions/artemis/in-depth/). However, it is only recently that engineers have developed algorithms to compute QPOs and their manfiolds of desired characteristics to enable the use of QPOs directly for mission design. My work builds on these developments and purposes a few improvements to the cutting-edge algorithms to more efficiently compute transfer trajectories between periodic orbits with different stability characterisitcs. 
 
-![image-center2]({{ site.baseurl }}/files/EM_l2qHalo_to_DRO.png){: .align-center}
+### A. Transfers between nearly/maringally stable periodic orbits
 
-There are many planned missions that will leverage periodic orbits but it is a constant challenge to compute fuel-efficient transfers between them. Thus, I am working on finding these transfers more efficiently by expanding my work to chain periodic orbit - QPO and QPO - periodic orbit transfer to get a periodic orbit - periodic orbit transfer. You can learn more about them in my upcoming thesis. 
+Stable periodic orbits lack useful transfer manifolds, hence, motivates the use of an alternate dynamical structure to inform the transfer design process. I propose a framework that leverages the stable and unstable manifolds of QPOs and decomposes the design into multiple segments to increase the number of transfer options available for transfer design. One such example is showcased for transfers between L2 9:2 NRHO to DRO in the Earth-Moon system and two types of transfers are uncovered as plotted below, informed by a QPO:
+
+![image-center]({{ site.baseurl }}/files/int_qvert_opt_sol_config.pdf){: .align-center}
+
+It is notable through this work that QPOs extend the number of solutions with lower maneuver costs than obtained from their underlying periodic orbits. This framework can be expanded to other types of departure and arrival orbits, and allow for intuitive addition of QPOs to inform the design of transfer trajectories. 
+
+### B. Transfers between unstable periodic orbits in the same family
+
+
+
+
 
 **Technologies used**: Python(numpy, scipy, pandas, scikit-learn, plotly, matplotlib), MATLAB, C++, Git, Command Line Interface, Latex
 
