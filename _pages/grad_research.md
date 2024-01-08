@@ -71,15 +71,14 @@ The existence and method to compute QPOs have been known since the 1980's and th
 
 ### A. Transfers between nearly/maringally stable periodic orbits
 
-Stable periodic orbits lack useful transfer manifolds, hence, motivates the use of an alternate dynamical structure to inform the transfer design process. I propose a framework that leverages the stable and unstable manifolds of QPOs and decomposes the design into multiple segments to increase the number of transfer options available for transfer design. One such example is showcased for transfers between L2 9:2 NRHO to DRO in the Earth-Moon system and two types of transfers are uncovered as plotted below, informed by a QPO:
+Stable periodic orbits lack useful transfer manifolds, hence, motivates the use of an alternate dynamical structure to inform the transfer design process. I propose a framework that leverages the stable and unstable manifolds of QPOs and decomposes the design into multiple segments to increase the number of transfer options. One such example is showcased for transfers between L2 9:2 NRHO to DRO in the Earth-Moon system and two types of transfers (interior- and exterior-type) are uncovered as plotted below, informed by a QPO:
 
 <p style="float: left;">
-  <img src="{{ site.baseurl }}/files/int_qvert_opt_sol_config.png" alt="Image 1" width="49%">
+  <img src="{{ site.baseurl }}/files/int_qvert_opt_sol_config.png" alt="Image 1" width="40%">
 </p>
 <p style="float: right;">
-  <img src="{{ site.baseurl }}/files/ext_qp2ho2_dpo_opt_sol_config-1.png" alt="Image 2" width="49%">
+  <img src="{{ site.baseurl }}/files/ext_qp2ho2_dpo_opt_sol_config-1.png" alt="Image 2" width="40%">
 </p>
-
 
 It is notable through this work that QPOs extend the number of solutions with lower maneuver costs than obtained from their underlying periodic orbits. This framework can be expanded to other types of departure and arrival orbits, and allow for intuitive addition of QPOs to inform the design of transfer trajectories. 
 

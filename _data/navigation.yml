@@ -82,5 +82,5 @@ current_res_sidebar:
       url: /current_research/#1-host-orbit
     - title: "Manuever Free Transfers"
       url: /current_research/#2-maneuver-free-transfers
-    - title: "Transfers between QPOs and Periodic Orbits" 
-      url: /current_research/#3-transfers-between-qpos-and-periodic-orbits
+    - title: "Transfers between Periodic Orbits, informed by QPOs" 
+      url: /current_research/#3-transfers-between-periodic-orbits-,-informed-by-qpos
