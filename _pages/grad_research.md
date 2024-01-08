@@ -73,7 +73,7 @@ Stable periodic orbits lack useful transfer manifolds, hence, motivates the use 
 <figure class="half">
     <figcaption>The different colored portions of the transfer trajectory are the post corrections remnanats of the segments.</figcaption>
     <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/int_qvert_opt_sol_config.png" height="300" width="40%"></iframe>
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/ext_qp2ho2_dpo_opt_sol_config.png" height="450" width="50%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/ext_qp2ho2_dpo_opt_sol_config.png" height="300" width="50%"></iframe>
 </figure>
 It is notable through this work ([1](https://hammer.purdue.edu/articles/thesis/Transfer_Trajectory_Design_Strategies_Informed_by_Quasi-Periodic_Orbits/24718713/1), [2](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2024_AIAA_JaiHow.pdf)) that QPOs extend the number of solutions with lower maneuver costs than obtained from their underlying periodic orbits. This framework can be expanded to other types of departure and arrival orbits, and allow for intuitive addition of QPOs to inform the design of transfer trajectories. 
 
