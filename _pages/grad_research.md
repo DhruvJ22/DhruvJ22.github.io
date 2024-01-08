@@ -82,13 +82,12 @@ It is notable through this work ([1](https://hammer.purdue.edu/articles/thesis/T
 The construction of direct transfers between unstable periodic orbits in the same family is challenging as their corresponding manifolds might not offer solutions with desired geometries. Hence, two methodologies are leveraged to uncover families of two maneuver direct pathways that link different members of the same family. The first method expands on the work of Gomez et al. [1] to realize locally fuel-optimal transfers and the procedure is illustrated for a departure orbit with Az = 10,000 km and the transfers link the departure orbit with the halo orbits with higher Az values as shown below: 
 <figure class="half">
     <figcaption>The departure halo orbit appears in grey in the left plot.</figcaption>
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/halo_locally_opt_transfers.png" height="450" width="50%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/halo_locally_opt_transfers.png" height="400" width="50%"></iframe>
     <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/tmdv_ig_opt_Az_vs_tot_dv.png" height="450" width="50%"></iframe>
 </figure>
 It is notable that this method reveals a linear relationship between the maneuver cost and the parameteric diffeence between the departure and arrival orbits, and the cost of the optimal transfer is well approximated by the initial guesses. The second method utilizes the unstable manifold trajectories corresponding to constant energy families of QPOs to uncover local 1 parameter families of solutions as depicted below: 
 <figure class="half">
-    <figcaption>The departure halo orbit appears in grey in the left plot.</figcaption>
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/compare_halo_unstable_transfer.png" height="450" width="50%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/compare_halo_unstable_transfer.png" height="400" width="50%"></iframe>
     <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/compare_opt_with_qpo_cost.png" height="450" width="50%"></iframe>
 </figure>
 
