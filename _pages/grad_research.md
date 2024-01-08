@@ -81,13 +81,18 @@ It is notable through this work ([1](https://hammer.purdue.edu/articles/thesis/T
 
 ### B. Transfers between unstable periodic orbits in the same family
 
+The construction of direct transfers between unstable periodic orbits in the same family is challenging as their corresponding manifolds might not offer solutions with desired geometries. Hence, two methodologies are leveraged to uncover families of two maneuver direct pathways that link different members of the same family. The first method expands on the work of G
+'omez et al. [1] to realize locally fuel-optimal transfers and the procedure is illustrated for a departure orbit with Az = 10,000 km and the transfers link the departure orbit with the halo orbits with higher Az values as shown below: 
 
 <figure class="half">
     <figcaption>The different colored portions of the transfer trajectory are the post corrections remnanats of the segments.</figcaption>
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/int_qvert_opt_sol_config.png" height="300" width="40%"></iframe>
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/ext_qp2ho2_dpo_opt_sol_config.png" height="450" width="50%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/halo_locally_opt_transfers.png" height="300" width="40%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/tmdv_ig_opt_Az_vs_tot_dv.png" height="450" width="50%"></iframe>
 </figure>
 
+
+[1] Gomez, G., Jorba, A., Masdemont, A., and Simo, C., “Study of the transfer between halo orbits,” Acta Astronautica, Vol. 43,
+No. 9-10, 1998, pp. 493–52.
 
 **Technologies used**: Python(numpy, scipy, pandas, scikit-learn, plotly, matplotlib), MATLAB, C++, Git, Command Line Interface, Latex
 
