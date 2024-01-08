@@ -67,18 +67,17 @@ Maneuver free transfers, also known as heteroclinic transfers, between QPOs can 
 
 The existence and method to compute QPOs have been known since the 1980's and they have been leveraged in a previous [NASA mission](https://solarsystem.nasa.gov/missions/artemis/in-depth/). However, it is only recently that engineers have developed algorithms to compute QPOs and their manfiolds of desired characteristics to enable the use of QPOs directly for mission design. My work builds on these developments and purposes a few improvements to the cutting-edge algorithms to more efficiently compute transfer trajectories between periodic orbits with different stability characterisitcs. 
 
+
+
 ### A. Transfers between nearly/maringally stable periodic orbits
 
 Stable periodic orbits lack useful transfer manifolds, hence, motivates the use of an alternate dynamical structure to inform the transfer design process. I propose a framework that leverages the stable and unstable manifolds of QPOs and decomposes the design into multiple segments to increase the number of transfer options available for transfer design. One such example is showcased for transfers between L2 9:2 NRHO to DRO in the Earth-Moon system and two types of transfers are uncovered as plotted below, informed by a QPO:
 
-![image-center]({{ site.baseurl }}/files/int_qvert_opt_sol_config.pdf){: .align-center}
+![image-center]({{ site.baseurl }}/files/int_qvert_opt_sol_config.png){: .align-center}
 
 It is notable through this work that QPOs extend the number of solutions with lower maneuver costs than obtained from their underlying periodic orbits. This framework can be expanded to other types of departure and arrival orbits, and allow for intuitive addition of QPOs to inform the design of transfer trajectories. 
 
 ### B. Transfers between unstable periodic orbits in the same family
-
-
-
 
 
 **Technologies used**: Python(numpy, scipy, pandas, scikit-learn, plotly, matplotlib), MATLAB, C++, Git, Command Line Interface, Latex
