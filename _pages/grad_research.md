@@ -77,6 +77,7 @@ Stable periodic orbits lack useful transfer manifolds, hence, motivates the use 
 <p style="float: right;">
   <img src="{{ site.baseurl }}/files/ext_qp2ho2_dpo_opt_sol_config.png" alt="Image 2" width="40%">
 </p>
+<br>
 
 It is notable through this work that QPOs extend the number of solutions with lower maneuver costs than obtained from their underlying periodic orbits. This framework can be expanded to other types of departure and arrival orbits, and allow for intuitive addition of QPOs to inform the design of transfer trajectories. 
 
