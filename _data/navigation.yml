@@ -72,15 +72,15 @@ experiences_sidebar:
 
 current_res_sidebar:
   - title: "Introduction"
-    url: /current_research/#introduction 
+    url: /grad_research/#introduction 
   - title: "Lagrange Points and Periodic Orbits"
-    url: /current_research/#lagrange-points-and-periodic-orbits
+    url: /grad_research/#lagrange-points-and-periodic-orbits
   - title: "QPOs and their Applications"
-    url: /current_research/#qpos-and-their-applications
+    url: /grad_research/#qpos-and-their-applications
     children: 
     - title: "Host Orbit"
-      url: /current_research/#1-host-orbit
+      url: /grad_research/#1-host-orbit
     - title: "Manuever Free Transfers"
-      url: /current_research/#2-maneuver-free-transfers
+      url: /grad_research/#2-maneuver-free-transfers
     - title: "Transfers between Periodic Orbits, informed by QPOs" 
-      url: /current_research/#3-transfers-between-periodic-orbits-,-informed-by-qpos
+      url: /grad_research/#3-transfers-between-periodic-orbits,-informed-by-qpos
