@@ -87,9 +87,11 @@ The construction of direct transfers between unstable periodic orbits in the sam
 </figure>
 It is notable that this method reveals a linear relationship between the maneuver cost and the parameteric diffeence between the departure and arrival orbits, and the cost of the optimal transfer is well approximated by the initial guesses. The second method utilizes the unstable manifold trajectories corresponding to constant energy families of QPOs to uncover local 1 parameter families of solutions as depicted below: 
 <figure class="half">
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/compare_halo_unstable_transfer.png" height="400" width="50%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/compare_halo_unstable_transfer.png" height="380" width="50%"></iframe>
     <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="{{ site.baseurl }}/files/compare_opt_with_qpo_cost.png" height="450" width="50%"></iframe>
 </figure>
+
+This work is detailed in my [conference paper](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2024_AIAA_JaiHow.pdf) and can be extended to other periodic orbit families in the Earth-Moon system, as well as other systems. 
 
 [1] Gomez, G., Jorba, A., Masdemont, A., and Simo, C., “Study of the transfer between halo orbits,” Acta Astronautica, Vol. 43,
 No. 9-10, 1998, pp. 493–52.
