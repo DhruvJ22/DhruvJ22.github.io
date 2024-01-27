@@ -24,11 +24,11 @@ main:
     
 past_res_sidebar: 
   - title: "Space Object Taxonomy"
-    url: /past_research/#space-object-taxonomy
+    url: /undergrad_research/#space-object-taxonomy
   - title: "Aerodynamics Deorbit Experiment"
-    url: /past_research/#aerodynamics-deorbit-experiement
+    url: /undergrad_research/#aerodynamics-deorbit-experiement
   - title: "Spacecraft Docking and Simulation"
-    url: /past_research/#spacecraft-docking-and-simulation
+    url: /undergrad_research/#spacecraft-docking-and-simulation
 
 projects_sidebar:
   - title: "Poliastro"
