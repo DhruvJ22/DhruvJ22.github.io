@@ -30,7 +30,7 @@ NASA [CAPSTONE](https://www.nasa.gov/directorates/spacetech/small_spacecraft/cap
 
 <figure class="half">
     <figcaption>These are interactive plots. Hold and drag the cursor to change the view and zoom</figcaption>
-    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research/EM_L2_HaloS_family.html" height="450" width="50%"></iframe>
+    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research/example_plots/EM_L2_HaloS_family.html" height="450" width="50%"></iframe>
     <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://dhruvj22.github.io/Astrodynamics_Research//misc/EM_DRO_family.html" height="450" width="50%"></iframe>
 </figure>
 The periodic orbits have various applications, as exemplified by the above two NASA missions, and are essential in identifying quasi-periodic orbits. 
