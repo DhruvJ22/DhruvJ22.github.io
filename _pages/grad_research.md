@@ -13,11 +13,11 @@ _(This page might take a few seconds to load. Thank you for your patience!)_
 # _Introduction_
 <hr style="border:2px solid grey">
 
-My master's  research focused on formulating frameworks to design transfer trajectories between periodic orbits by leveraging quasi-periodic orbits and their associated manifolds. 
+My master's research focused on formulating frameworks to design transfer trajectories between periodic orbits by leveraging quasi-periodic orbits (QPOs) and their associated manifolds. 
 
-The trajectory and orbit design in a multi-body gravitational system is a challenging task due to chaotic dynamics and numerical complexities. However, certain assumptions can be made to aid in the description and analysis of the dynamics of a spacecraft for preliminary design, which enables the realization of dynamical structures that can then be utilized to systematically design desired trajectories and orbits. I have employed the Circular Restricted Three Body Problem (CR3BP) to model the dynamics of a spacecraft under the influence of the Earth and the Moon. 
+The trajectory and orbit design in a multi-body gravitational system is a challenging task due to chaotic dynamics and numerical complexities. However, certain assumptions can be made to aid in the description and analysis of the dynamics of a spacecraft for preliminary design, which enables the realization of dynamical structures that can then be utilized to systematically design desired trajectories and orbits. I employed the Circular Restricted Three Body Problem (CR3BP) to model the dynamics of a spacecraft under the influence of two primaries.
 
-The CR3BP is a hamiltonian system, so the dynamical systems theory is leveraged to obtain fundamental solutions and their manifolds to characterize the global dynamics. The three types of fundamental solutions are the equilibrium, periodic and quasi-periodic solutions. My focus is on the applications of the quasi-periodic solutions that exist as families of quasi-periodic orbits (QPOs) in CR3BP. The Lagrange points, which are the equilibrium solutions, and periodic orbit families play a crucial role in computing QPOs and realizing their benefits. 
+The CR3BP is a hamiltonian system, hence, the dynamical systems theory is leveraged to obtain fundamental solutions and their manifolds to characterize the global dynamics. The three types of fundamental solutions are the equilibrium, periodic and quasi-periodic solutions. The construction of QPOs to realize the said applicaitons begins by identifying the Lagrange points, which are the equilibrium solutions, and periodic orbit families.
 <br>
 <br>
 
